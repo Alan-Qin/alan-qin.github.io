@@ -51,18 +51,19 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 **Zeyu Qin**, Yanbo Fan, Hongyuan Zha, Baoyuan Wu.    
 *In Advances in Neural Information Processing Systems (NeurIPS), 2021.* [[arxiv](https://arxiv.org/abs/2104.11470)] [[OpenReview](https://openreview.net/forum?id=ZPSD4xZc6j8)] [[code](https://github.com/SCLBD/BlackboxBench)]
 
-# 🎖 Honors and Awards
-- *2022.10* NeurIPS 2022 Scholar Award
-- *2021.04* Poster Runner-Up Reward of The First Doctoral and Postdoctoral Academic Forum of Shenzhen Research Institute of Big Data
 
-# 💬 Invited Talks
-- *2022.10*, Adversarial Transferability in AI Times Forum.
+# 🎖 Honors and Awards
+- *2022.10*, NeurIPS 2022 Scholar Award
+- *2021.04*, Poster Runner-Up Reward of The First Doctoral and Postdoctoral Academic Forum of Shenzhen Research Institute of Big Data
 
   
 # 📖 Educations
 - *2022.08 - Now*, Ph.D. student in Computer Science & Engineering, The Hong Kong University of Science and Technology.
 - *2018.08 - 2022.05 (Ph.D. --> M.Phil)*, M.Phil in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen.
 - *2014.09 - 2018.06*, B.Eng. in Information Engineering, Nanjing University of Aeronautics and Astronautics.
+
+# 💬 Invited Talks
+- *2022.10*, Adversarial Transferability in AI Times Forum.
 
 # 💻 Internships
 - Summer 2022: Research Intern, Alibaba Damo Academy, Hangzhou, China
