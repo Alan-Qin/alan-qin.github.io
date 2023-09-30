@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
+# About Me
 
 I am a Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisor is [Prof. Minhao Cheng](https://cmhcbb.github.io/). My research interest is broadly on _AI Safety, Interpretability, and Alignment_. **Currently, my focus is on enhancing the safety and interpretability of Large Pretrained Models, specifically for Eliciting Latent Knowledge (ELK).**
 
