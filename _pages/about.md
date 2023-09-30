@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+
 I am a Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisor is [Prof. Minhao Cheng](https://cmhcbb.github.io/). My research interest is broadly on _AI Safety, Interpretability, and Alignment_. **Currently, my focus is on enhancing the safety and interpretability of Large Pretrained Models, specifically for Eliciting Latent Knowledge (ELK).**
 
 _I am very fortunate to have worked with lots of distinguished researchers: Prof. Baoyuan Wu, Dr. Yanbo Fan, Dr. Li Shen, Prof. Hongyuan Zha, Dr. Jiancong Xiao, and Prof. Piji Li. I had an amazing four years at LGU with my good friends from Room 310 and Room 224. Miss you, guys!_
@@ -50,11 +52,12 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 *In Advances in Neural Information Processing Systems (NeurIPS), 2021.* [[arxiv](https://arxiv.org/abs/2104.11470)] [[OpenReview](https://openreview.net/forum?id=ZPSD4xZc6j8)] [[code](https://github.com/SCLBD/BlackboxBench)]
 
 
-
 # 📖 Educations
 - *2022.08 - Now*, Ph.D. student in Computer Science & Engineering, The Hong Kong University of Science and Technology.
 - *2018.08 - 2022.05 (Ph.D. --> M.Phil)*, M.Phil in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen.
 - *2014.09 - 2018.06*, B.Eng. in Information Engineering, Nanjing University of Aeronautics and Astronautics.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Summer 2022: Research Intern, Alibaba Damo Academy, Hangzhou, China
+- July 2021 -- May 2022: Research Intern, Tencent AI Lab, Shenzhen, China
+- January 2020 -- October 2020: Research Intern, Tencent AI Lab, Shenzhen, China
