@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -36,9 +30,18 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 
 \* denoting equal contribution
 
+- **Stable Backdoor Purification with Feature Shift Tuning**    
+Rui Min\*, **Zeyu Qin**\*, Li Shen, Minhao Cheng.    
+*In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.* 
+
+- **Imitation Learning from Imperfection: Theoretical Justifications and Algorithms (Spotlight!)**    
+Ziniu Li\*, Tian Xu\*, **Zeyu Qin**, Yang Yu, Zhiquan Luo.    
+*In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.*  
+(This is excellent work from Ziniu and Tian. I only conducted part of the experiments. I almost have no idea about Imitation Learning :joy:.)
+
 - **Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks.**   
 **Zeyu Qin**, Liuyi Yao, Daoyuan Chen, Yaliang Li, Boling Ding, Minhao Cheng.   
-*The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.* [[arxiv](https://arxiv.org/abs/2302.01677)] [[code](https://github.com/alibaba/FederatedScope/tree/backdoor-bench)]
+*The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023.* [[arxiv](https://arxiv.org/abs/2302.01677)] [[code](https://github.com/alibaba/FederatedScope/tree/backdoor-bench)]
 
 - **Adaptive Smoothness-weighted Adversarial Training for Multiple Perturbations with Its Stability Analysis.**  
 Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.    
@@ -46,11 +49,11 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 
 - **Boosting the Transferability of Adversarial Attacks with Reverse Adversarial Perturbation**    
 **Zeyu Qin**\*, Yanbo Fan\*, Yi Liu, Li Shen, Yong Zhang, Jue Wang, Baoyuan Wu.    
-*In Advances in Neural Information Processing Systems (NeurIPS), 2022.* [[arxiv](https://arxiv.org/abs/2210.05968)] [[OpenReview](https://openreview.net/forum?id=k5uFiFLWv3X)] [[code](https://github.com/Alan-Qin/Transfer_attack_RAP)]
+*In Advances in Neural Information Processing Systems (**NeurIPS**), 2022.* [[arxiv](https://arxiv.org/abs/2210.05968)] [[OpenReview](https://openreview.net/forum?id=k5uFiFLWv3X)] [[code](https://github.com/Alan-Qin/Transfer_attack_RAP)]
 
 - **Random Noise Defense Against Query-Based Black-Box Attacks**    
 **Zeyu Qin**, Yanbo Fan, Hongyuan Zha, Baoyuan Wu.    
-*In Advances in Neural Information Processing Systems (NeurIPS), 2021.* [[arxiv](https://arxiv.org/abs/2104.11470)] [[OpenReview](https://openreview.net/forum?id=ZPSD4xZc6j8)] [[code](https://github.com/SCLBD/BlackboxBench)]
+*In Advances in Neural Information Processing Systems (**NeurIPS**), 2021.* [[arxiv](https://arxiv.org/abs/2104.11470)] [[OpenReview](https://openreview.net/forum?id=ZPSD4xZc6j8)] [[code](https://github.com/SCLBD/BlackboxBench)]
 
 
 # 🎖 Honors and Awards
