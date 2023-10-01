@@ -37,7 +37,7 @@ Rui Min\*, **Zeyu Qin**\*, Li Shen, Minhao Cheng.
 - **Imitation Learning from Imperfection: Theoretical Justifications and Algorithms (Spotlight!)**    
 Ziniu Li\*, Tian Xu\*, **Zeyu Qin**, Yang Yu, Zhiquan Luo.    
 *In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.*  
-(This is excellent work from Ziniu and Tian. I only conducted part of the experiments. I almost have no idea about Imitation Learning :joy:.)
+(This is excellent work from Ziniu and Tian. I only conducted part of the experiments. I almost have no idea about Imitation Learning 😂.)
 
 - **Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks.**   
 **Zeyu Qin**, Liuyi Yao, Daoyuan Chen, Yaliang Li, Boling Ding, Minhao Cheng.   
