@@ -30,7 +30,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 
 \* denoting equal contribution
 
-- **Stable Backdoor Purification with Feature Shift Tuning**    
+- **Towards Stable Backdoor Purification through Feature Shift Tuning**    
 Rui Min\*, **Zeyu Qin**\*, Li Shen, Minhao Cheng.    
 *In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.* 
 
