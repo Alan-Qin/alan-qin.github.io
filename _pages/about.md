@@ -12,19 +12,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# About Me
+# 🎓 About Me
 
 I am a Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisor is [Prof. Minhao Cheng](https://cmhcbb.github.io/). My research interest is broadly on _AI Safety, Interpretability, and Alignment_. **Currently, my focus is on enhancing the safety and interpretability of Large Pretrained Models, specifically for Eliciting Latent Knowledge (ELK).**
 
 _I am very fortunate to have worked with lots of distinguished researchers: Prof. Baoyuan Wu, Dr. Yanbo Fan, Dr. Li Shen, Prof. Hongyuan Zha, Dr. Jiancong Xiao, and Prof. Piji Li. I had an amazing four years at LGU with my good friends from Room 310 and Room 224. Miss you, guys!_
 
 
-# 🔥 News
-- *2023.09*: &nbsp;🎉🎉 **Two papers (one spotlight) have been accepted by NeurIPS 2023**: 1. Feature shift tuning which achieves SOTA purification performance against backdoor attacks; 2. Spotlight! Imitation learning from imperfect demonstrations (See [Ziniu Li](http://www.liziniu.org/)).
-- *2023.05*: &nbsp;🎉🎉 New work has been accepted by KDD 2023: The first study about **robustness from personalization in FL against backdoor attacks**.
+# 📜 News
+- *2023.09*: &nbsp;🎉 **Two papers (one spotlight) have been accepted by NeurIPS 2023**: 1. Feature shift tuning which achieves SOTA purification performance against backdoor attacks; 2. Spotlight! Imitation learning from imperfect demonstrations (See [Ziniu Li](http://www.liziniu.org/)).
+- *2023.05*: &nbsp;🎉 New work has been accepted by KDD 2023: The first study about **robustness from personalization in FL against backdoor attacks**.
 - *2022.10*: I will go to New Orleans to attend NeurIPS 2022.
-- *2022.09*: &nbsp;🎉🎉 The paper about **adversarial transferability (Reverse Adversarial Perturbation)** was accepted by NeurIPS 2022.
-- *2021.09*: &nbsp;🎉🎉 The paper about defense against query-based attacks **(Random Noise Defense)** was accepted by NeurIPS 2021.
+- *2022.09*: &nbsp;🎉 The paper about **adversarial transferability (Reverse Adversarial Perturbation)** was accepted by NeurIPS 2022.
+- *2021.09*: &nbsp;🎉 The paper about defense against query-based attacks **(Random Noise Defense)** was accepted by NeurIPS 2021.
 
 # 📝 Publications 
 
