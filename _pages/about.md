@@ -20,6 +20,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 
 
 # 📜 News
+- *2023.10*: I will go to New Orleans to attend NeurIPS 2023.
 - *2023.09*: &nbsp;🎉 **Two papers (one spotlight) have been accepted by NeurIPS 2023**: 1. Feature shift tuning which achieves SOTA purification performance against backdoor attacks; 2. Spotlight! Imitation learning from imperfect demonstrations (See [Ziniu Li](http://www.liziniu.org/)).
 - *2023.05*: &nbsp;🎉 New work has been accepted by KDD 2023: The first study about **robustness from personalization in FL against backdoor attacks**.
 - *2022.10*: I will go to New Orleans to attend NeurIPS 2022.
