@@ -14,7 +14,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am a Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisor is [Prof. Minhao Cheng](https://cmhcbb.github.io/). My research interest is broadly on _AI Safety, Interpretability, and Alignment_. **Currently, my focus is on enhancing the safety and interpretability of Large Pretrained Models, specifically for Eliciting Latent Knowledge (ELK).**
+I am a Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisor is [Prof. Minhao Cheng](https://cse.hkust.edu.hk/~minhaocheng/). My research interest is broadly on _AI Safety, Interpretability, and Alignment_. **Currently, my focus is on enhancing the safety and interpretability of Large Pretrained Models, specifically for Eliciting Latent Knowledge (ELK).**
 
 _I am very fortunate to have worked with lots of distinguished researchers: Prof. Baoyuan Wu, Dr. Yanbo Fan, Dr. Li Shen, Prof. Hongyuan Zha, Dr. Jiancong Xiao, and Prof. Piji Li. I had an amazing four years at LGU with my good friends from Room 310 and Room 224. Miss you, guys!_
 
