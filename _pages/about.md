@@ -40,9 +40,14 @@ Ziniu Li\*, Tian Xu\*, **Zeyu Qin**, Yang Yu, Zhiquan Luo.
 *In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.* [[OpenReview](https://openreview.net/forum?id=vO04AzsB49)]  
 (This is excellent work from Ziniu and Tian. I only conducted part of the experiments. I almost have no idea about Imitation Learning 😂.)
 
-- **Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks.**   
+- **Revisiting Personalized Federated Learning: Robustness Against Backdoor Attacks**   
 **Zeyu Qin**, Liuyi Yao, Daoyuan Chen, Yaliang Li, Boling Ding, Minhao Cheng.   
 *The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023.* [[arxiv](https://arxiv.org/abs/2302.01677)] [[code](https://github.com/alibaba/FederatedScope/tree/backdoor-bench)]
+
+
+- **Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**  
+Liang Chen, Yang Deng, Yatao Bian, **Zeyu Qin**, Bingzhe Wu, Tat-Seng Chua, Kam-Fai Wong.   
+*The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023.* [[arxiv](https://arxiv.org/abs/2310.07289)]
 
 - **Adaptive Smoothness-weighted Adversarial Training for Multiple Perturbations with Its Stability Analysis.**  
 Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.    
