@@ -62,6 +62,15 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 *In Advances in Neural Information Processing Systems (**NeurIPS**), 2021.* [[arxiv](https://arxiv.org/abs/2104.11470)] [[OpenReview](https://openreview.net/forum?id=ZPSD4xZc6j8)] [[code](https://github.com/SCLBD/BlackboxBench)]
 
 
+# 📝 Preprints
+\* denoting equal contribution
+
+- **Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping**     
+Haoyu Wang, Guozheng Ma, Ziqiao Meng, **Zeyu Qin**, Li Shen, Zhong Zhang, Bingzhe Wu, Liu Liu, Yatao Bian, Tingyang Xu, Xueqian Wang, Peilin Zhao.    
+*Arxiv, 2024.* [[arxiv](https://arxiv.org/abs/2402.07610)]
+
+
+
 # 🎖 Honors and Awards
 - *2022.10*, NeurIPS 2022 Scholar Award
 - *2021.04*, Poster Runner-Up Reward of The First Doctoral and Postdoctoral Academic Forum of Shenzhen Research Institute of Big Data
