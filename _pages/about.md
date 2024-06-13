@@ -14,12 +14,13 @@ redirect_from:
 
 # 🎓 About Me
 
-I am Zeyu Qin (秦泽钰), a Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Minhao Cheng](https://cmhcbb.github.io/) and [Prof. Nevin L. Zhang](https://www.cse.ust.hk/faculty/lzhang/). My research interest is broadly on _AI Safety, Interpretability, and Alignment_. **Currently, my focus is on enhancing the safety and interpretability of Large Pretrained Models, specifically for Eliciting Latent Knowledge (ELK).**
+I am Zeyu Qin (秦泽钰), a Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Minhao Cheng](https://cmhcbb.github.io/) and [Prof. Nevin L. Zhang](https://www.cse.ust.hk/faculty/lzhang/). My research interest is broadly on _AI Alignment, Safety, and Interpretability_. **Currently, my focus is on enhancing the safety and interpretability of Large Pretrained Models, specifically for Eliciting Latent Knowledge (ELK).**
 
 _I am very fortunate to have worked with lots of distinguished researchers: Prof. Baoyuan Wu, Dr. Yanbo Fan, Dr. Li Shen, Prof. Hongyuan Zha, Dr. Jiancong Xiao, and Prof. Piji Li. I had an amazing four years at LGU with my good friends from Room 310 and Room 224. Miss you, guys!_
 
 
 # 📜 News
+- *2024.07*: I will go to Vienna to attend ICML 2024.
 - *2023.10*: I will go to New Orleans to attend NeurIPS 2023.
 - *2023.09*: **Two papers (one spotlight) have been accepted by NeurIPS 2023**: 1. Feature shift tuning which achieves SOTA purification performance against backdoor attacks; 2. Spotlight! Imitation learning from imperfect demonstrations (See [Ziniu Li](http://www.liziniu.org/)).
 - *2023.05*: New work has been accepted by KDD 2023: The first study about **robustness from personalization in FL against backdoor attacks**.
