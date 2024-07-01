@@ -14,7 +14,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am Zeyu Qin (秦泽钰), a Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Minhao Cheng](https://cmhcbb.github.io/) and [Prof. Nevin L. Zhang](https://www.cse.ust.hk/faculty/lzhang/). My research interest is broadly on _AI Alignment, Safety, and Interpretability_. **Currently, my focus is on enhancing the safety and interpretability of Large Pretrained Models, specifically for Eliciting Latent Knowledge (ELK).**
+I am Zeyu Qin (秦泽钰), a Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Minhao Cheng](https://cmhcbb.github.io/) and [Prof. Nevin L. Zhang](https://www.cse.ust.hk/faculty/lzhang/). My research interest is broadly on _AI Alignment, Safety, and Interpretability_. **Currently, my focus is on Eliciting Latent Knowledge (ELK) of Large Language Models.**
 
 _I am very fortunate to have worked with lots of distinguished researchers: Prof. Baoyuan Wu, Dr. Yanbo Fan, Dr. Li Shen, Prof. Hongyuan Zha, Dr. Jiancong Xiao, and Prof. Piji Li. I had an amazing four years at LGU with my good friends from Room 310 and Room 224. Miss you, guys!_
 
