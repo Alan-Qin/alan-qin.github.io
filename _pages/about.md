@@ -41,7 +41,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 \* denoting equal contribution   ^ denoting corresponding author
 
 - **Towards Stable Backdoor Purification through Feature Shift Tuning**    
-Rui Min\*, **Zeyu Qin**\* ^, Li Shen, Minhao Cheng.    
+Rui Min\*, **Zeyu Qin\* ^**, Li Shen, Minhao Cheng.    
 *In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.* [[arxiv](https://arxiv.org/abs/2310.01875)] [[OpenReview](https://openreview.net/forum?id=8muKbaAgsh)] [[code](https://github.com/AISafety-HKUST/stable_backdoor_purification)]
 
 - **Imitation Learning from Imperfection: Theoretical Justifications and Algorithms (<span style="color: red;">Spotlight!</span>)**    
@@ -63,7 +63,7 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 *ICML 2023 Workshop AdvML-Frontiers, 2023* [[arxiv](https://arxiv.org/abs/2210.00557)]
 
 - **Boosting the Transferability of Adversarial Attacks with Reverse Adversarial Perturbation**    
-**Zeyu Qin**\*, Yanbo Fan\*, Yi Liu, Li Shen, Yong Zhang, Jue Wang, Baoyuan Wu.    
+**Zeyu Qin\***, Yanbo Fan\*, Yi Liu, Li Shen, Yong Zhang, Jue Wang, Baoyuan Wu.    
 *In Advances in Neural Information Processing Systems (**NeurIPS**), 2022.* [[arxiv](https://arxiv.org/abs/2210.05968)] [[OpenReview](https://openreview.net/forum?id=k5uFiFLWv3X)] [[code](https://github.com/Alan-Qin/Transfer_attack_RAP)]
 
 - **Random Noise Defense Against Query-Based Black-Box Attacks**    
