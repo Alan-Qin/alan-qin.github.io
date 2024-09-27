@@ -21,13 +21,13 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 
 
 # 📜 News
-- *2024.09*: **One <span style="color: red;">Spotlight</span> has been accepted by NeurIPS 2024**: Understanding Superficial Robustness of Safety Tuning--the Backdoor Purification Case.
+- *2024.09*: **One <span style="color: red;">Spotlight</span> has been accepted by NeurIPS 2024**: Understanding **Superficial Robustness of Safety Tuning**--the Backdoor Purification Case.
 - *2024.07*: I will go to Vienna to attend ICML 2024.
 - *2023.10*: I will go to New Orleans to attend NeurIPS 2023.
 - *2023.09*: **Two papers (one <span style="color: red;">Spotlight</span>) have been accepted by NeurIPS 2023**: 1. Feature shift tuning which achieves SOTA purification performance against backdoor attacks; 2. Spotlight! Imitation learning from imperfect demonstrations (See [Ziniu Li](http://www.liziniu.org/)).
 - *2023.05*: New work has been accepted by KDD 2023: The first study about **robustness from personalization in FL against backdoor attacks**.
 - *2022.10*: I will go to New Orleans to attend NeurIPS 2022.
-- *2022.09*: The paper about **adversarial transferability (Reverse Adversarial Perturbation)** was accepted by NeurIPS 2022.
+- *2022.09*: The paper about **improving adversarial transferability by utilizing flatness of loss landscape (Reverse Adversarial Perturbation)** was accepted by NeurIPS 2022.
 - *2021.09*: The paper about defense against query-based attacks **(Random Noise Defense)** was accepted by NeurIPS 2021.
 
 # 📝 Publications 
@@ -75,7 +75,8 @@ Haoyu Wang, Guozheng Ma, Ziqiao Meng, **Zeyu Qin**, Li Shen, Zhong Zhang, Bingzh
 
 
 # 🎖 Honors and Awards
-- *2022.10*, NeurIPS 2022 Scholar Award
+- *2024.09*, NeurIPS 2024 Spotlight Paper
+- *2023.09*, NeurIPS 2023 Spotlight Paper
 - *2021.04*, Poster Runner-Up Reward of The First Doctoral and Postdoctoral Academic Forum of Shenzhen Research Institute of Big Data
 
   
