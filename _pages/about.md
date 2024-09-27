@@ -37,7 +37,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 Rui Min\*, **Zeyu Qin**\*, Li Shen, Minhao Cheng.    
 *In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.* [[arxiv](https://arxiv.org/abs/2310.01875)] [[OpenReview](https://openreview.net/forum?id=8muKbaAgsh)] [[code](https://github.com/AISafety-HKUST/stable_backdoor_purification)]
 
-- **Imitation Learning from Imperfection: Theoretical Justifications and Algorithms (Spotlight!)**    
+- **Imitation Learning from Imperfection: Theoretical Justifications and Algorithms (<span style="color: red;">Spotlight!</span>)**    
 Ziniu Li\*, Tian Xu\*, **Zeyu Qin**, Yang Yu, Zhiquan Luo.    
 *In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.* [[OpenReview](https://openreview.net/forum?id=vO04AzsB49)]  
 (This is excellent work from Ziniu and Tian. I only conducted part of the experiments. I almost have no idea about Imitation Learning 😂.)
