@@ -30,16 +30,18 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 - *2023.10*: I will go to New Orleans to attend NeurIPS 2023.
 - *2023.09*: **Two papers (one <span style="color: red;">Spotlight</span>) have been accepted by NeurIPS 2023**: 1. Feature shift tuning which achieves SOTA purification performance against backdoor attacks; 2. Spotlight! Imitation learning from imperfect demonstrations (See [Ziniu Li](http://www.liziniu.org/)).
 - *2023.05*: New work has been accepted by KDD 2023: The first study about **robustness from personalization in FL against backdoor attacks**.
+
+<!-- 
 - *2022.10*: I will go to New Orleans to attend NeurIPS 2022.
 - *2022.09*: The paper about **improving adversarial transferability by utilizing flatness of loss landscape (Reverse Adversarial Perturbation)** was accepted by NeurIPS 2022.
-- *2021.09*: The paper about defense against query-based attacks **(Random Noise Defense)** was accepted by NeurIPS 2021.
+- *2021.09*: The paper about defense against query-based attacks **(Random Noise Defense)** was accepted by NeurIPS 2021.-->
 
 # 📝 Publications 
 
-\* denoting equal contribution   \^ denoting corresponding author
+\* denoting equal contribution   ^ denoting corresponding author
 
 - **Towards Stable Backdoor Purification through Feature Shift Tuning**    
-Rui Min\*, **Zeyu Qin**\*\^, Li Shen, Minhao Cheng.    
+Rui Min\*, **Zeyu Qin**\* ^, Li Shen, Minhao Cheng.    
 *In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.* [[arxiv](https://arxiv.org/abs/2310.01875)] [[OpenReview](https://openreview.net/forum?id=8muKbaAgsh)] [[code](https://github.com/AISafety-HKUST/stable_backdoor_purification)]
 
 - **Imitation Learning from Imperfection: Theoretical Justifications and Algorithms (<span style="color: red;">Spotlight!</span>)**    
