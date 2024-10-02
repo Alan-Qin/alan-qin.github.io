@@ -18,7 +18,7 @@ I am Zeyu Qin (秦泽钰), a Ph.D. student of [Computer Science & Engineering](h
 
 Currently, I am focusing on:  
 1) **How to obtain better and more safe Supervision for oversighting LLMs**;   
-2) **Eliciting Truthful Latent Knowledge (ELK) of LLMs**;  
+2) **Eliciting Honest Latent Knowledge (ELK) of LLMs**;  
 3) **Faithful Evaluation of LLMs**.  
 
 
