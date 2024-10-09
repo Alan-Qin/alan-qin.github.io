@@ -41,6 +41,11 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 
 \* denoting equal contribution   ^ denoting corresponding author
 
+- **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense (<span style="color: red;">Spotlight!</span>)**    
+Rui Min\*, **Zeyu Qin\* ^**, Nevin Zhang, Li Shen, Minhao Cheng.   
+*In Advances in Neural Information Processing Systems (**NeurIPS**), 2024.*
+
+
 - **Towards Stable Backdoor Purification through Feature Shift Tuning**    
 Rui Min\*, **Zeyu Qin\* ^**, Li Shen, Minhao Cheng.    
 *In Advances in Neural Information Processing Systems (**NeurIPS**), 2023.* [[arxiv](https://arxiv.org/abs/2310.01875)] [[OpenReview](https://openreview.net/forum?id=8muKbaAgsh)] [[code](https://github.com/AISafety-HKUST/stable_backdoor_purification)]
