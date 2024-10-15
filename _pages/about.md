@@ -43,7 +43,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 
 - **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense (<span style="color: red;">Spotlight!</span>)**    
 Rui Min\*, **Zeyu Qin\* ^**, Nevin Zhang, Li Shen, Minhao Cheng.   
-***NeurIPS 2024***
+***NeurIPS 2024*** [[arxiv](https://arxiv.org/abs/2410.09838)]
 
 
 - **Towards Stable Backdoor Purification through Feature Shift Tuning**    
