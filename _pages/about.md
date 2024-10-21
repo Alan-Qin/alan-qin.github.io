@@ -14,7 +14,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am Zeyu Qin (秦泽钰), a Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Minhao Cheng](https://cmhcbb.github.io/) and [Prof. Nevin L. Zhang](https://www.cse.ust.hk/faculty/lzhang/). Recently, I also collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/). My research interest is broadly on _AI Alignment, Safety, and Interpretability_.  
+I am Zeyu Qin (秦泽钰), a Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Minhao Cheng](https://cmhcbb.github.io/) and [Prof. Nevin L. Zhang](https://www.cse.ust.hk/faculty/lzhang/). Recently, I also collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/). My research interest is broadly on _AI Alignment, and Safety.  
 
 Currently, I am focusing on:  
 1) **How to obtain better and more safe Supervision for oversighting LLMs**;   
