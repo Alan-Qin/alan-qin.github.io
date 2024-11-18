@@ -62,7 +62,7 @@ Ziniu Li\*, Tian Xu\*, **Zeyu Qin**, Yang Yu, Zhiquan Luo.
 
 - **Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**  
 Liang Chen, Yang Deng, Yatao Bian, **Zeyu Qin**, Bingzhe Wu, Tat-Seng Chua, Kam-Fai Wong.   
-***EMNLP 2023*** [[arxiv](https://arxiv.org/abs/2310.07289)]
+***EMNLP 2023*** [[arxiv](https://arxiv.org/abs/2310.07289)] [[code](https://github.com/chanliang/conner)]
 
 - **Adaptive Smoothness-weighted Adversarial Training for Multiple Perturbations with Its Stability Analysis.**  
 Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.    
