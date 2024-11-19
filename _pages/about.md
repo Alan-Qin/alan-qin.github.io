@@ -82,7 +82,7 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 
 - **Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**       
 Ziniu Li, Congliang Chen, Tian Xu, **Zeyu Qin**, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo.       
-*Arxiv, 2024.* [[arxiv]({https://arxiv.org/abs/2408.16673)]
+*Arxiv, 2024.* [[arxiv](https://arxiv.org/abs/2408.16673)]
 
 
 - **Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping**     
