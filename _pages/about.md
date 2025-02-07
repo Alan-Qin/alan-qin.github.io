@@ -39,7 +39,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 
 # 📝 Publications 
 
-\* denoting equal contribution   ^ denoting corresponding author
+**\* denoting equal contribution   ^ denoting corresponding author**
 
 - **Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**       
 Ziniu Li, Congliang Chen, Tian Xu, **Zeyu Qin**, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo.       
@@ -83,7 +83,7 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 
 
 # 📝 Preprints
-\* denoting equal contribution  ^ denoting corresponding author  
+**\* denoting equal contribution  ^ denoting corresponding author**  
 
 - **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**   
 Haoyu Wang\*, **Zeyu Qin\* ^**, Li Shen, Xueqian Wang, Minhao Cheng, Dacheng Tao.  
