@@ -87,7 +87,7 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 
 - **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**   
 Haoyu Wang\*, **Zeyu Qin\* ^**, Li Shen, Xueqian Wang, Minhao Cheng, Dacheng Tao.  
-*Arxiv, 2024.* [[arxiv](https://arxiv.org/abs/2502.04040)]
+*Arxiv, 2025.* [[arxiv](https://arxiv.org/abs/2502.04040)]
 
 
 - **Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping**     
