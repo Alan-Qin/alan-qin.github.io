@@ -41,7 +41,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 
 **\* denoting equal contribution   ^ denoting corresponding author**
 
-- **Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**       
+- **Preserving Diversity in Supervised Fine-Tuning of Large Language Models**       
 Ziniu Li, Congliang Chen, Tian Xu, **Zeyu Qin**, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo.       
 ***ICLR 2025*** [[arxiv](https://arxiv.org/abs/2408.16673)]
 
