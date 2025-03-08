@@ -41,6 +41,11 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 
 **\* denoting equal contribution   ^ denoting corresponding author**
 
+- **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**   
+Haoyu Wang\*, **Zeyu Qin\* ^**, Li Shen, Xueqian Wang, Minhao Cheng, Dacheng Tao.  
+*ICLR 2025 SSI-FM Workshop* [[arxiv](https://arxiv.org/abs/2502.04040)]
+
+
 - **Preserving Diversity in Supervised Fine-Tuning of Large Language Models**       
 Ziniu Li, Congliang Chen, Tian Xu, **Zeyu Qin**, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo.       
 ***ICLR 2025*** [[arxiv](https://arxiv.org/abs/2408.16673)]
@@ -84,11 +89,6 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 
 # 📝 Preprints
 **\* denoting equal contribution  ^ denoting corresponding author**  
-
-- **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**   
-Haoyu Wang\*, **Zeyu Qin\* ^**, Li Shen, Xueqian Wang, Minhao Cheng, Dacheng Tao.  
-*Arxiv, 2025.* [[arxiv](https://arxiv.org/abs/2502.04040)]
-
 
 - **Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping**     
 Haoyu Wang, Guozheng Ma, Ziqiao Meng, **Zeyu Qin**, Li Shen, Zhong Zhang, Bingzhe Wu, Liu Liu, Yatao Bian, Tingyang Xu, Xueqian Wang, Peilin Zhao.    
