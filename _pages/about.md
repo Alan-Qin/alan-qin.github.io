@@ -26,6 +26,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 
 
 # 📜 News
+- *2025.03*: New work: we explore the **Scaling Laws of Synthetic Data for Language Models**. We introducing **SynthLLM**, a scalable framework that transforms pre-training corpora into diverse, high-quality synthetic datasets and find synthetic data that reliably adheres to the rectified scaling law across various model sizes.
 - *2024.09*: **One <span style="color: red;">Spotlight</span> has been accepted by NeurIPS 2024**: Understanding **Superficial Robustness of Safety Tuning**--the Backdoor Purification Case.
 - *2024.07*: I will go to Vienna to attend ICML 2024.
 - *2023.10*: I will go to New Orleans to attend NeurIPS 2023.
@@ -40,6 +41,10 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 # 📝 Publications 
 
 **\* denoting equal contribution   ^ denoting corresponding author**
+
+- **Scaling Laws of Synthetic Data for Language Models**   
+**Zeyu Qin**, Qingxiu Dong, Xingxing Zhang^, Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei^    
+Arxiv [[arxiv](https://arxiv.org/abs/2503.19551)]
 
 - **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**   
 Haoyu Wang\*, **Zeyu Qin\* ^**, Li Shen, Xueqian Wang, Minhao Cheng, Dacheng Tao.  
