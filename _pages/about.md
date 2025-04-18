@@ -14,7 +14,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am Zeyu Qin (秦泽钰), a Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). Recently, I also collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/). My research interest is broadly on _The Science of Training DL Models, Scalable Oversight, and Safety_.  
+I am Zeyu Qin (秦泽钰), a third-year Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). Recently, I also collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/). My research interest is broadly on _The Science of Training DL Models, Scalable Oversight, and Safety_.  
 
 Currently, I am focusing on:  
 1) **The Science of Training DL Models**;   
@@ -105,11 +105,12 @@ Haoyu Wang, Guozheng Ma, Ziqiao Meng, **Zeyu Qin**, Li Shen, Zhong Zhang, Bingzh
 - *2023.09*, NeurIPS 2023 Spotlight Paper
 - *2021.04*, Poster Runner-Up Reward of The First Doctoral and Postdoctoral Academic Forum of Shenzhen Research Institute of Big Data
 
-  
+<!-- 
 # 📖 Educations
 - *2022.08 - Now*, Ph.D. student in Computer Science & Engineering, The Hong Kong University of Science and Technology.
-- *2018.08 - 2022.05 (Ph.D. --> M.Phil)*, M.Phil in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen.
+- *2018.08 - 2022.05 (Ph.D. -> M.Phil)*, M.Phil in Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen.
 - *2014.09 - 2018.06*, B.Eng. in Information Engineering, Nanjing University of Aeronautics and Astronautics.
+-->
 
 # 💬 Invited Talks
 - *2022.10*, Adversarial Transferability in AI Times Forum.
