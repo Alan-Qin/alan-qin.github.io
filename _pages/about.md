@@ -14,10 +14,10 @@ redirect_from:
 
 # 🎓 About Me
 
-I am Zeyu Qin (秦泽钰), a third-year Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). Recently, I also collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/). My research interest is broadly on _The Science of Training DL Models, Scalable Oversight, and Safety_.  
+I am Zeyu Qin (秦泽钰), a third-year Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). Recently, I also collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/). My research interest is broadly on _Scalable Oversight, and AI Safety_.  
 
 Currently, I am focusing on:  
-1) **The Science of Training DL Models**;   
+1) **Scaling Self-Improvement**;   
 2) **Reliable and Generalizable Reasoning**;    
 3) **How to obtain "Better" and more Safe Supervision for oversighting LLMs**.    
 
@@ -26,8 +26,8 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 
 
 # 📜 News
+- *2025.05*: **Safety Reasoning paper has been accepted by ICML 2025**: we explore the **Safety Reasoning with Guidelines**. We introduce **SRG**, a scalable framework that synthesizes safety CoT supervision to encourage models to reason in alignment with diverse safety guidelines, each reflecting a different perspective on safety knowledge. Our SRG significantly improves OOD generalization of safety alignment. 
 - *2025.03*: New work: we explore the **Scaling Laws of Synthetic Data for Language Models**. We introducing **SynthLLM**, a scalable framework that transforms pre-training corpora into diverse, high-quality synthetic datasets and find synthetic data that reliably adheres to the rectified scaling law across various model sizes.
-- *2025.02*: New work: we explore the **Safety Reasoning with Guidelines**. We introduce **SRG**, a scalable framework that synthesizes safety CoT supervision to encourage models to reason in alignment with diverse safety guidelines, each reflecting a different perspective on safety knowledge. Our SRG significantly improves OOD generalization of safety alignment. 
 - *2024.09*: **One <span style="color: red;">Spotlight</span> has been accepted by NeurIPS 2024**: Understanding **Superficial safety of Safety Tuning**--the Backdoor Purification Case. We demonstrated that safety fine-tuning cannot fully eliminate learned harmful features and provided a detailed analysis.
 - *2023.09*: **Two papers (one <span style="color: red;">Spotlight</span>) have been accepted by NeurIPS 2023**: 1. Feature shift tuning which achieves SOTA purification performance against backdoor attacks; 2. Spotlight! Imitation learning from imperfect demonstrations (See [Ziniu Li](http://www.liziniu.org/)).
 - *2023.05*: New work has been accepted by KDD 2023: The first study about **robustness from personalization in FL against backdoor attacks**.
@@ -47,7 +47,7 @@ Arxiv 2025 [[arxiv](https://arxiv.org/abs/2503.19551)]
 
 - **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**   
 Haoyu Wang\*, **Zeyu Qin\* ^**, Li Shen, Xueqian Wang, Minhao Cheng, Dacheng Tao.  
-*ICLR 2025 SSI-FM Workshop* [[arxiv](https://arxiv.org/abs/2502.04040)]
+***ICML 2025, ICLR 2025 SSI-FM Workshop*** [[arxiv](https://arxiv.org/abs/2502.04040)]
 
 
 - **Preserving Diversity in Supervised Fine-Tuning of Large Language Models**       
