@@ -45,9 +45,9 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 **Zeyu Qin**, Qingxiu Dong, Xingxing Zhang^, Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei^    
 Arxiv 2025 [[arxiv](https://arxiv.org/abs/2503.19551)]
 
-- **Leveraging Reasoning with Guidelines to Elicit and Utilize Knowledge for Enhancing Safety Alignment**   
-Haoyu Wang\*, **Zeyu Qin\* ^**, Li Shen, Xueqian Wang, Minhao Cheng, Dacheng Tao.  
-***ICML 2025, ICLR 2025 SSI-FM Workshop*** [[arxiv](https://arxiv.org/abs/2502.04040)]
+- **Safety Reasoning with Guidelines**   
+Haoyu Wang\*, **Zeyu Qin\* ^**, Li Shen, Xueqian Wang, Dacheng Tao, Minhao Cheng.  
+***ICML 2025***, ICLR 2025 SSI-FM Workshop [[arxiv](https://arxiv.org/abs/2502.04040)]
 
 
 - **Preserving Diversity in Supervised Fine-Tuning of Large Language Models**       
