@@ -42,7 +42,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Prof
 **\* denoting equal contribution   ^ denoting corresponding author**
 
 
-### Scalable and Reliable Oversight
+## Scalable and Reliable Oversight
 
 - **Scaling Laws of Synthetic Data for Language Models**   
 **Zeyu Qin**, Qingxiu Dong, Xingxing Zhang^, Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei^    
@@ -58,9 +58,9 @@ Rui Min\*, **Zeyu Qin\* ^**, Nevin Zhang, Li Shen, Minhao Cheng.
 
 
 
-### AI Safety
+## AI Safety
 
-#### Data Safety
+### Data Safety
 
 - **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense (<span style="color: red;">Spotlight!</span>)**    
 Rui Min\*, **Zeyu Qin\* ^**, Nevin Zhang, Li Shen, Minhao Cheng.   
@@ -77,7 +77,7 @@ Rui Min\*, **Zeyu Qin\* ^**, Li Shen, Minhao Cheng.
 ***KDD 2023*** [[arxiv](https://arxiv.org/abs/2302.01677)] [[code](https://github.com/alibaba/FederatedScope/tree/backdoor-bench)]
 
 
-#### Adversarial Machine Learning
+### Adversarial Machine Learning
 
 - **Boosting the Transferability of Adversarial Attacks with Reverse Adversarial Perturbation**    
 **Zeyu Qin\***, Yanbo Fan\*, Yi Liu, Li Shen, Yong Zhang, Jue Wang, Baoyuan Wu.    
@@ -92,7 +92,7 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 *ICML 2023 Workshop AdvML-Frontiers, 2023* [[arxiv](https://arxiv.org/abs/2210.00557)]
 
 
-### Collaboration
+## Collaboration
 
 - **Preserving Diversity in Supervised Fine-Tuning of Large Language Models**       
 Ziniu Li, Congliang Chen, Tian Xu, **Zeyu Qin**, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo.       
