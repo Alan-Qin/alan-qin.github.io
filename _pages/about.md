@@ -115,11 +115,11 @@ Liang Chen, Yang Deng, Yatao Bian, **Zeyu Qin**, Bingzhe Wu, Tat-Seng Chua, Kam-
 
 - **Lifelong Safety Alignment for Language Models**     
 Haoyu Wang, **Zeyu Qin**, Yifei Zhao, Chao Du, Min Lin, Xueqian Wang, Tianyu Pang.    
-*Arxiv, 2025.* [[arxiv](https://arxiv.org/abs/2402.07610)]
+*Arxiv, 2025.* [[arxiv](https://arxiv.org/abs/2505.20259)]
 
 - **Does Representation Intervention Really Identify Desired Concepts and Elicit Alignment?**     
 Hongzheng Yang\*, Yongqiang Chen\*, **Zeyu Qin**, Tongliang Liu, Chaowei Xiao, Kun Zhang, Bo Han.    
-*Arxiv, 2024.* [[arxiv](https://arxiv.org/abs/2402.07610)]
+*Arxiv, 2025.* [[arxiv](https://arxiv.org/abs/2505.18672)]
 
 
 - **Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping**     
