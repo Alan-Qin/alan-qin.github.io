@@ -62,6 +62,11 @@ Rui Min\*, **Zeyu Qin\* ^**, Nevin Zhang, Li Shen, Minhao Cheng.
 
 #### Data Safety
 
+- **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense (<span style="color: red;">Spotlight!</span>)**    
+Rui Min\*, **Zeyu Qin\* ^**, Nevin Zhang, Li Shen, Minhao Cheng.   
+***NeurIPS 2024*** [[arxiv](https://arxiv.org/abs/2410.09838)] [[code](https://github.com/AISafety-HKUST/Backdoor_Safety_Tuning)]
+
+
 - **Towards Stable Backdoor Purification through Feature Shift Tuning**    
 Rui Min\*, **Zeyu Qin\* ^**, Li Shen, Minhao Cheng.    
 ***NeurIPS 2023*** [[arxiv](https://arxiv.org/abs/2310.01875)] [[OpenReview](https://openreview.net/forum?id=8muKbaAgsh)] [[code](https://github.com/AISafety-HKUST/Backdoor_Safety_Tuning)]
