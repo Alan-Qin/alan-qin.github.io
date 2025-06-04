@@ -87,10 +87,6 @@ Rui Min\*, **Zeyu Qin\* ^**, Li Shen, Minhao Cheng.
 **Zeyu Qin**, Yanbo Fan, Hongyuan Zha, Baoyuan Wu.    
 ***NeurIPS 2021*** [[arxiv](https://arxiv.org/abs/2104.11470)] [[OpenReview](https://openreview.net/forum?id=ZPSD4xZc6j8)] [[code](https://github.com/SCLBD/BlackboxBench)]
 
-- **Adaptive Smoothness-weighted Adversarial Training for Multiple Perturbations with Its Stability Analysis.**  
-Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.    
-*ICML 2023 Workshop AdvML-Frontiers, 2023* [[arxiv](https://arxiv.org/abs/2210.00557)]
-
 
 ## Collaboration
 
@@ -108,6 +104,10 @@ Ziniu Li\*, Tian Xu\*, **Zeyu Qin**, Yang Yu, Zhiquan Luo.
 - **Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**  
 Liang Chen, Yang Deng, Yatao Bian, **Zeyu Qin**, Bingzhe Wu, Tat-Seng Chua, Kam-Fai Wong.   
 ***EMNLP 2023*** [[arxiv](https://arxiv.org/abs/2310.07289)] [[code](https://github.com/chanliang/conner)]
+
+- **Adaptive Smoothness-weighted Adversarial Training for Multiple Perturbations with Its Stability Analysis.**  
+Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.    
+*ICML 2023 Workshop AdvML-Frontiers, 2023* [[arxiv](https://arxiv.org/abs/2210.00557)]
 
 
 # 📝 Preprints
