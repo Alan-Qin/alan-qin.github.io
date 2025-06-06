@@ -22,7 +22,7 @@ Currently, I am focusing on:
 3) **How to obtain "Better" and more Safe Supervision for oversighting LLMs**.    
 
 
-_I am very fortunate to have worked with lots of distinguished researchers: Prof. Baoyuan Wu, Dr. Yanbo Fan, Prof. Hongyuan Zha, Dr. Jiancong Xiao, and Prof. Piji Li. I had an amazing four years at LGU with my good friends from Room 310 and Room 224. Miss you, guys!_
+_I am very fortunate to have worked with lots of distinguished researchers: Dr. Liuyi Yao, Daoyuan Chen, Dr. Yaliang Li, Prof. Baoyuan Wu, Dr. Yanbo Fan, Prof. Hongyuan Zha, Dr. Jiancong Xiao, and Prof. Piji Li. I had an amazing four years at LGU with my good friends from Room 310 and Room 224. Miss you, guys!_
 
 
 # 📜 News
