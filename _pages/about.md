@@ -113,6 +113,10 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 # 📝 Preprints
 **\* denoting equal contribution  ^ denoting corresponding author**  
 
+- **Quality-Diversity Red-Teaming: Automated Generation of High-Quality and Diverse Attackers for Large Language Models**     
+Ren-Jian Wang, Ke Xue, **Zeyu Qin**, Ziniu Li, Sheng Tang, Hao-Tian Li, Shengcai Liu, Chao Qian.    
+*Arxiv, 2025.* [[arxiv](https://arxiv.org/abs/2506.07121)]
+
 - **Lifelong Safety Alignment for Language Models**     
 Haoyu Wang, **Zeyu Qin**, Yifei Zhao, Chao Du, Min Lin, Xueqian Wang, Tianyu Pang.    
 *Arxiv, 2025.* [[arxiv](https://arxiv.org/abs/2505.20259)]
