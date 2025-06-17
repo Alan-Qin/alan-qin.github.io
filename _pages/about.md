@@ -39,21 +39,21 @@ _I am very fortunate to have worked with lots of distinguished researchers: Dr. 
 
 # 📝 Publications 
 
-**\* denoting equal contribution   ^ denoting corresponding author**
+**\* denoting equal contribution   $^{\dagger}$ denoting corresponding author**
 
 
 ## Scalable and Reliable Oversight
 
 - **Scaling Laws of Synthetic Data for Language Models**   
-**Zeyu Qin**, Qingxiu Dong, Xingxing Zhang^, Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei^    
+**Zeyu Qin**, Qingxiu Dong, Xingxing Zhang $^{\dagger}$, Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei $^{\dagger}$    
 Arxiv 2025 [[arxiv](https://arxiv.org/abs/2503.19551)]
 
 - **Safety Reasoning with Guidelines**   
-Haoyu Wang\*, **Zeyu Qin\* ^**, Li Shen, Xueqian Wang, Dacheng Tao, Minhao Cheng.  
+Haoyu Wang\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Xueqian Wang, Dacheng Tao, Minhao Cheng.  
 ***ICML 2025***, ICLR 2025 SSI-FM Workshop [[arxiv](https://arxiv.org/abs/2502.04040)]
 
 - **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense (<span style="color: red;">Spotlight!</span>)**    
-Rui Min\*, **Zeyu Qin\* ^**, Nevin Zhang, Li Shen, Minhao Cheng.   
+Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Nevin Zhang, Li Shen, Minhao Cheng.   
 ***NeurIPS 2024*** [[arxiv](https://arxiv.org/abs/2410.09838)] [[code](https://github.com/AISafety-HKUST/Backdoor_Safety_Tuning)]
 
 
@@ -63,12 +63,12 @@ Rui Min\*, **Zeyu Qin\* ^**, Nevin Zhang, Li Shen, Minhao Cheng.
 ### Data Safety
 
 - **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense (<span style="color: red;">Spotlight!</span>)**    
-Rui Min\*, **Zeyu Qin\* ^**, Nevin Zhang, Li Shen, Minhao Cheng.   
+Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Nevin Zhang, Li Shen, Minhao Cheng.   
 ***NeurIPS 2024*** [[arxiv](https://arxiv.org/abs/2410.09838)] [[code](https://github.com/AISafety-HKUST/Backdoor_Safety_Tuning)]
 
 
 - **Towards Stable Backdoor Purification through Feature Shift Tuning**    
-Rui Min\*, **Zeyu Qin\* ^**, Li Shen, Minhao Cheng.    
+Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Minhao Cheng.    
 ***NeurIPS 2023*** [[arxiv](https://arxiv.org/abs/2310.01875)] [[OpenReview](https://openreview.net/forum?id=8muKbaAgsh)] [[code](https://github.com/AISafety-HKUST/Backdoor_Safety_Tuning)]
 
 
