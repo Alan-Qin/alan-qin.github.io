@@ -17,7 +17,7 @@ redirect_from:
 I am Zeyu Qin (秦泽钰), a third-year Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). Recently, I also collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/). My research interest is broadly on _Scalable Oversight, and AI Safety_.  
 
 Currently, I am focusing on:  
-1) **Scaling Self-Improvement**;   
+1) **Understanding of how data shapes models**: Helping Specify Better Learning Objective; Faithful Evaluation or Debugging Models    
 2) **Reliable and Generalizable Reasoning**;    
 3) **How to obtain "Better" and more Safe Supervision for oversighting LLMs**.    
 
