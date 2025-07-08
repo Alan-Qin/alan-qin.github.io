@@ -26,17 +26,17 @@ _I am very fortunate to have worked with lots of distinguished researchers: Dr. 
 
 
 # 📜 News
-- *2025.07*：**Scaling Laws of Synthetic Data for Language Models** has been accepted by **COLM 2025**.
-- *2025.05*: **Safety Reasoning paper has been accepted by ICML 2025**: we explore the **Safety Reasoning with Guidelines**. We introduce **SRG**, a scalable framework that synthesizes safety CoT supervision to encourage models to reason in alignment with diverse safety guidelines, each reflecting a different perspective on safety knowledge. Our SRG significantly improves OOD generalization of safety alignment. 
+- *2025.07*：**Scaling Laws of Synthetic Data for Language Models** has been accepted to **COLM 2025**.
+- *2025.05*: **Safety Reasoning paper has been accepted to ICML 2025**: we explore the **Safety Reasoning with Guidelines**. We introduce **SRG**, a scalable framework that synthesizes safety CoT supervision to encourage models to reason in alignment with diverse safety guidelines, each reflecting a different perspective on safety knowledge. Our SRG significantly improves OOD generalization of safety alignment. 
 - *2025.03*: New work: we explore the **Scaling Laws of Synthetic Data for Language Models**. We introducing **SynthLLM**, a scalable framework that transforms pre-training corpora into diverse, high-quality synthetic datasets and find synthetic data that reliably adheres to the rectified scaling law across various model sizes.
-- *2024.09*: **One <span style="color: red;">Spotlight</span> has been accepted by NeurIPS 2024**: Understanding **Superficial safety of Safety Tuning**--the Backdoor Purification Case. We demonstrated that safety fine-tuning cannot fully eliminate learned harmful features and provided a detailed analysis.
-- *2023.09*: **Two papers (one <span style="color: red;">Spotlight</span>) have been accepted by NeurIPS 2023**: 1. Feature shift tuning which achieves SOTA purification performance against backdoor attacks; 2. Spotlight! Imitation learning from imperfect demonstrations (See [Ziniu Li](http://www.liziniu.org/)).
-- *2023.05*: New work has been accepted by KDD 2023: The first study about **robustness from personalization in FL against backdoor attacks**.
+- *2024.09*: **One <span style="color: red;">Spotlight</span> has been accepted to NeurIPS 2024**: Understanding **Superficial safety of Safety Tuning**--the Backdoor Purification Case. We demonstrated that safety fine-tuning cannot fully eliminate learned harmful features and provided a detailed analysis.
+- *2023.09*: **Two papers (one <span style="color: red;">Spotlight</span>) have been accepted to NeurIPS 2023**: 1. Feature shift tuning which achieves SOTA purification performance against backdoor attacks; 2. Spotlight! Imitation learning from imperfect demonstrations (See [Ziniu Li](http://www.liziniu.org/)).
+- *2023.05*: New work has been accepted to KDD 2023: The first study about **robustness from personalization in FL against backdoor attacks**.
 
 
 <!-- 
-- *2022.09*: The paper about **improving adversarial transferability by utilizing flatness of loss landscape (Reverse Adversarial Perturbation)** was accepted by NeurIPS 2022.
-- *2021.09*: The paper about defense against query-based attacks **(Random Noise Defense)** was accepted by NeurIPS 2021.-->
+- *2022.09*: The paper about **improving adversarial transferability by utilizing flatness of loss landscape (Reverse Adversarial Perturbation)** was accepted to NeurIPS 2022.
+- *2021.09*: The paper about defense against query-based attacks **(Random Noise Defense)** was accepted to NeurIPS 2021.-->
 
 # 📝 Publications 
 
