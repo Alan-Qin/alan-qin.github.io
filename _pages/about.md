@@ -26,6 +26,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Dr. 
 
 
 # 📜 News
+- *2025.07*：**Scaling Laws of Synthetic Data for Language Models** has been accepted by **COLM 2025**.
 - *2025.05*: **Safety Reasoning paper has been accepted by ICML 2025**: we explore the **Safety Reasoning with Guidelines**. We introduce **SRG**, a scalable framework that synthesizes safety CoT supervision to encourage models to reason in alignment with diverse safety guidelines, each reflecting a different perspective on safety knowledge. Our SRG significantly improves OOD generalization of safety alignment. 
 - *2025.03*: New work: we explore the **Scaling Laws of Synthetic Data for Language Models**. We introducing **SynthLLM**, a scalable framework that transforms pre-training corpora into diverse, high-quality synthetic datasets and find synthetic data that reliably adheres to the rectified scaling law across various model sizes.
 - *2024.09*: **One <span style="color: red;">Spotlight</span> has been accepted by NeurIPS 2024**: Understanding **Superficial safety of Safety Tuning**--the Backdoor Purification Case. We demonstrated that safety fine-tuning cannot fully eliminate learned harmful features and provided a detailed analysis.
@@ -46,7 +47,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Dr. 
 
 - **Scaling Laws of Synthetic Data for Language Models**   
 **Zeyu Qin**, Qingxiu Dong, Xingxing Zhang $^{\dagger}$, Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei $^{\dagger}$    
-Arxiv 2025 [[arxiv](https://arxiv.org/abs/2503.19551)]
+***COLM 2025*** [[arxiv](https://arxiv.org/abs/2503.19551)]
 
 - **Safety Reasoning with Guidelines**   
 Haoyu Wang\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Xueqian Wang, Dacheng Tao, Minhao Cheng.  
