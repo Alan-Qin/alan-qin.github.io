@@ -51,7 +51,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Dr. 
 
 - **Safety Reasoning with Guidelines**   
 Haoyu Wang\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Xueqian Wang, Dacheng Tao, Minhao Cheng.  
-***ICML 2025***, ICLR 2025 SSI-FM Workshop [[arxiv](https://arxiv.org/abs/2502.04040)]
+***ICML 2025*** [[arxiv](https://arxiv.org/abs/2502.04040)]
 
 - **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense (<span style="color: red;">Spotlight!</span>)**    
 Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Nevin Zhang, Li Shen, Minhao Cheng.   
