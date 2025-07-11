@@ -154,4 +154,4 @@ Haoyu Wang, Guozheng Ma, Ziqiao Meng, **Zeyu Qin**, Li Shen, Zhong Zhang, Bingzh
 - January 2020 -- October 2020: Research Intern, Tencent AI Lab, Shenzhen, China
 
 # 📧 Contact
-zeyu.qin@connect.ust.hk ; zeyu6181136@gmail.com
+zeyu.qin@connect.ust.hk
