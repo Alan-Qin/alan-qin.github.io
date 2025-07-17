@@ -148,10 +148,10 @@ Haoyu Wang, Guozheng Ma, Ziqiao Meng, **Zeyu Qin**, Li Shen, Zhong Zhang, Bingzh
 - *2022.10*, Adversarial Transferability in AI Times Forum.
 
 # 💻 Internships
-- November 2024 -- Current: Research Intern, MSRA GenAI, Beijing, China
+- November 2024 -- July 2025: Research Intern, MSRA GenAI, Beijing, China
 - June 2022 -- May 2023: Research Intern, Alibaba Damo Academy, Hangzhou, China
 - July 2021 -- May 2022: Research Intern, Tencent AI Lab, Shenzhen, China
 - January 2020 -- October 2020: Research Intern, Tencent AI Lab, Shenzhen, China
 
 # 📧 Contact
-zeyu.qin@connect.ust.hk
+zeyu.qin@connect.ust.hk ; zeyu6181136@gmail.com
