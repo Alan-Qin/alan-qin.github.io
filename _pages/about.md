@@ -91,6 +91,10 @@ Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Minhao Cheng.
 
 ## Collaboration
 
+- **Reinforcement Learning with Rubric Anchors**   
+Zenan Huang\*, Yihong Zhuang\*, Guoshan Lu\*, **Zeyu Qin\***, Haokai Xu\*, Tianyu Zhao, Ru Peng, Jiaqi Hu, Zhanming Shen, Xiaomeng Hu, Xijun Gu, Peiyi Tu, Jiaxin Liu, Wenyu Chen, Yuzhuo Fu, Zhiting Fan, Yanmei Gu, Yuanyuan Wang, Zhengkai Yang, Jianguo Li, Junbo Zhao$^{\dagger}$  
+***arxiv 2025*** [[arxiv](https://arxiv.org/abs/2508.12790)]  
+
 - **Preserving Diversity in Supervised Fine-Tuning of Large Language Models**       
 Ziniu Li, Congliang Chen, Tian Xu, **Zeyu Qin**, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo.       
 ***ICLR 2025*** [[arxiv](https://arxiv.org/abs/2408.16673)]
