@@ -92,8 +92,9 @@ Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Minhao Cheng.
 **Zeyu Qin**, Yanbo Fan, Hongyuan Zha, Baoyuan Wu.    
 ***NeurIPS 2021*** [[arxiv](https://arxiv.org/abs/2104.11470)] [[OpenReview](https://openreview.net/forum?id=ZPSD4xZc6j8)] [[code](https://github.com/SCLBD/BlackboxBench)]
 
+-------
 
-## Collaboration
+## Collaboration with Excellent Researchers
 
 - **Preserving Diversity in Supervised Fine-Tuning of Large Language Models**       
 Ziniu Li, Congliang Chen, Tian Xu, **Zeyu Qin**, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo.       
