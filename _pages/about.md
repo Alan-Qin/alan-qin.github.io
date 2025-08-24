@@ -17,9 +17,16 @@ redirect_from:
 I am Zeyu Qin (秦泽钰), a third-year Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). Recently, I also collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/). My research interest is broadly on _Scalable Oversight, and AI Safety_.  
 
 Currently, I am focusing on:  
+1) **Scaling Compute to Acticate Model Capacity**: Scaling Training-time and Testing-time Compute
+2) **Agent Reasoning and Generalization**: Developing Robust Reasoning
+3) **Training Reward Models and Critique Systems**: Providing Reliable Supervision Signals         
+
+
+<!-- 
 1) **Understanding of how data shapes models**: Helping Specify Better Learning Objective; Faithful Evaluation or Debugging Models    
 2) **Reliable and Generalizable Reasoning**;    
-3) **How to obtain "Better" and more Safe Supervision for oversighting LLMs**.    
+3) **How to obtain "Better" and more Safe Supervision for oversighting LLMs**.   
+-->
 
 
 _I am very fortunate to have worked with lots of distinguished researchers: Dr. Liuyi Yao, Daoyuan Chen, Dr. Yaliang Li, Prof. Baoyuan Wu, Dr. Yanbo Fan, Prof. Hongyuan Zha, Dr. Jiancong Xiao, and Prof. Piji Li. I had an amazing four years at LGU with my good friends from Room 310 and Room 224. Miss you, guys!_
@@ -57,10 +64,11 @@ Haoyu Wang\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Xueqian Wang, Dacheng Tao, M
 Zenan Huang\*, Yihong Zhuang\*, Guoshan Lu\*, **Zeyu Qin\***, Haokai Xu\*, Tianyu Zhao, Ru Peng, Jiaqi Hu, Zhanming Shen, Xiaomeng Hu, Xijun Gu, Peiyi Tu, Jiaxin Liu, Wenyu Chen, Yuzhuo Fu, Zhiting Fan, Yanmei Gu, Yuanyuan Wang, Zhengkai Yang, Jianguo Li, Junbo Zhao$^{\dagger}$  
 Arxiv 2025 [[arxiv](https://arxiv.org/abs/2508.12790)]  
 
+<!-- 
 - **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense (<span style="color: red;">Spotlight!</span>)**    
 Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Nevin Zhang, Li Shen, Minhao Cheng.   
 ***NeurIPS 2024*** [[arxiv](https://arxiv.org/abs/2410.09838)] [[code](https://github.com/AISafety-HKUST/Backdoor_Safety_Tuning)]
-
+-->
 
 
 ## AI Safety
