@@ -17,9 +17,9 @@ redirect_from:
 I am Zeyu Qin (秦泽钰), a third-year Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). Recently, I also collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/). My research interest is broadly on _Scalable Oversight, and AI Safety_.  
 
 Currently, I am focusing on:     
-1) **Scaling Compute to Acticate Model Capacity**: Scaling Training-time and Testing-time Compute     
+1) **Scaling Compute to Activate Model Capacity**: Scaling Training-time and Testing-time Compute     
 2) **Agent Reasoning and Generalization**: Developing Robust Reasoning      
-3) **Training Reward Models and Critique Systems**: Providing Reliable Supervision Signals            
+3) **Training Reward Models and Critique Systems**: Providing Reliable Supervision Signals                   
 
 
 <!-- 
