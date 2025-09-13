@@ -14,7 +14,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am Zeyu Qin (秦泽钰), a third-year Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). Recently, I also collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/). I have also had wonderful internship experiences at MRSA GenAI group, Alibaba DAMO Academy, and Tencent AI Lab. My research interest is broadly on _Scalable Oversight, and AI Safety_.  
+I am Zeyu Qin (秦泽钰), a forth-year Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). Recently, I also collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/). I have also had wonderful internship experiences at MRSA GenAI group, Alibaba DAMO Academy, and Tencent AI Lab. My research interest is broadly on _Scalable Oversight, and AI Safety_.  
 
 Currently, I am focusing on:     
 1) **Scaling Compute to Activate Model Capacity**: Scaling Training-time and Testing-time Compute     
@@ -29,7 +29,7 @@ Currently, I am focusing on:
 -->
 
 
-_I am very fortunate to have worked with lots of distinguished researchers: Dr. Liuyi Yao, Daoyuan Chen, Dr. Yaliang Li, Prof. Baoyuan Wu, Dr. Yanbo Fan, Prof. Hongyuan Zha, Dr. Jiancong Xiao, and Prof. Piji Li. I had an amazing four years at LGU with my good friends from Room 310 and Room 224. Miss you, guys!_
+_I am very fortunate to have worked with lots of distinguished researchers: Dr. Xingxing Zhang, Dr. Liuyi Yao, Daoyuan Chen, Dr. Yaliang Li, Prof. Baoyuan Wu, Dr. Yanbo Fan, Prof. Hongyuan Zha, Dr. Jiancong Xiao, and Prof. Piji Li. I had an amazing four years at LGU with my good friends from Room 310 and Room 224. Miss you, guys!_
 
 
 # 📜 News
