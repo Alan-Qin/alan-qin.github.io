@@ -104,6 +104,12 @@ Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Minhao Cheng.
 
 ## Collaboration with Excellent Researchers
 
+- **Merge-of-Thought Distillation**       
+Zhanming Shen\*, **Zeyu Qin\***, Zenan Huang, Hao Chen, Jiaqi Hu, Yihong Zhuang, Guoshan Lu, Gang Chen, Junbo Zhao.           
+*Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2509.08814)]
+
+
+
 - **Preserving Diversity in Supervised Fine-Tuning of Large Language Models**       
 Ziniu Li, Congliang Chen, Tian Xu, **Zeyu Qin**, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo.       
 ***ICLR 2025*** [[arxiv](https://arxiv.org/abs/2408.16673)]
@@ -129,20 +135,20 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 
 - **Quality-Diversity Red-Teaming: Automated Generation of High-Quality and Diverse Attackers for Large Language Models**     
 Ren-Jian Wang, Ke Xue, **Zeyu Qin**, Ziniu Li, Sheng Tang, Hao-Tian Li, Shengcai Liu, Chao Qian.    
-*Arxiv, 2025.* [[arxiv](https://arxiv.org/abs/2506.07121)]
+*Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2506.07121)]
 
 - **Lifelong Safety Alignment for Language Models**     
 Haoyu Wang, **Zeyu Qin**, Yifei Zhao, Chao Du, Min Lin, Xueqian Wang, Tianyu Pang.    
-*Arxiv, 2025.* [[arxiv](https://arxiv.org/abs/2505.20259)]
+*Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2505.20259)]
 
 - **Does Representation Intervention Really Identify Desired Concepts and Elicit Alignment?**     
 Hongzheng Yang\*, Yongqiang Chen\*, **Zeyu Qin**, Tongliang Liu, Chaowei Xiao, Kun Zhang, Bo Han.    
-*Arxiv, 2025.* [[arxiv](https://arxiv.org/abs/2505.18672)]
+*Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2505.18672)]
 
 
 - **Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping**     
 Haoyu Wang, Guozheng Ma, Ziqiao Meng, **Zeyu Qin**, Li Shen, Zhong Zhang, Bingzhe Wu, Liu Liu, Yatao Bian, Tingyang Xu, Xueqian Wang, Peilin Zhao.    
-*Arxiv, 2024.* [[arxiv](https://arxiv.org/abs/2402.07610)]
+*Arxiv, 2024* [[arxiv](https://arxiv.org/abs/2402.07610)]
 
 
 # 🎖 Honors and Awards
