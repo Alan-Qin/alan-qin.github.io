@@ -60,15 +60,10 @@ _I am very fortunate to have worked with lots of distinguished researchers: Dr. 
 Haoyu Wang\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Xueqian Wang, Dacheng Tao, Minhao Cheng.  
 ***ICML 2025*** [[arxiv](https://arxiv.org/abs/2502.04040)]
 
-- **Reinforcement Learning with Rubric Anchors**   
-Zenan Huang\*, Yihong Zhuang\*, Guoshan Lu\*, **Zeyu Qin\***, Haokai Xu\*, Tianyu Zhao, Ru Peng, Jiaqi Hu, Zhanming Shen, Xiaomeng Hu, Xijun Gu, Peiyi Tu, Jiaxin Liu, Wenyu Chen, Yuzhuo Fu, Zhiting Fan, Yanmei Gu, Yuanyuan Wang, Zhengkai Yang, Jianguo Li, Junbo Zhao$^{\dagger}$  
-Arxiv 2025 [[arxiv](https://arxiv.org/abs/2508.12790)]  
-
-<!-- 
 - **Uncovering, Explaining, and Mitigating the Superficial Safety of Backdoor Defense (<span style="color: red;">Spotlight!</span>)**    
 Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Nevin Zhang, Li Shen, Minhao Cheng.   
 ***NeurIPS 2024*** [[arxiv](https://arxiv.org/abs/2410.09838)] [[code](https://github.com/AISafety-HKUST/Backdoor_Safety_Tuning)]
--->
+
 
 
 ## AI Safety
@@ -108,6 +103,9 @@ Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Minhao Cheng.
 Zhanming Shen\*, **Zeyu Qin\***, Zenan Huang, Hao Chen, Jiaqi Hu, Yihong Zhuang, Guoshan Lu, Gang Chen, Junbo Zhao.           
 *Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2509.08814)]
 
+- **Reinforcement Learning with Rubric Anchors**   
+Zenan Huang\*, Yihong Zhuang\*, Guoshan Lu\*, **Zeyu Qin\***, Haokai Xu\*, Tianyu Zhao, Ru Peng, Jiaqi Hu, Zhanming Shen, Xiaomeng Hu, Xijun Gu, Peiyi Tu, Jiaxin Liu, Wenyu Chen, Yuzhuo Fu, Zhiting Fan, Yanmei Gu, Yuanyuan Wang, Zhengkai Yang, Jianguo Li, Junbo Zhao$^{\dagger}$  
+Arxiv 2025 [[arxiv](https://arxiv.org/abs/2508.12790)]  
 
 
 - **Preserving Diversity in Supervised Fine-Tuning of Large Language Models**       
