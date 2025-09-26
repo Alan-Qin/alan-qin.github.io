@@ -105,7 +105,17 @@ Zhanming Shen\*, **Zeyu Qin\***, Zenan Huang, Hao Chen, Jiaqi Hu, Yihong Zhuang,
 
 - **Reinforcement Learning with Rubric Anchors**   
 Zenan Huang\*, Yihong Zhuang\*, Guoshan Lu\*, **Zeyu Qin\***, Haokai Xu\*, Tianyu Zhao, Ru Peng, Jiaqi Hu, Zhanming Shen, Xiaomeng Hu, Xijun Gu, Peiyi Tu, Jiaxin Liu, Wenyu Chen, Yuzhuo Fu, Zhiting Fan, Yanmei Gu, Yuanyuan Wang, Zhengkai Yang, Jianguo Li, Junbo Zhao$^{\dagger}$  
-Arxiv 2025 [[arxiv](https://arxiv.org/abs/2508.12790)]  
+*Arxiv 2025* [[arxiv](https://arxiv.org/abs/2508.12790)]  
+
+
+- **Lifelong Safety Alignment for Language Models**       
+Haoyu Wang, **Zeyu Qin**, Yifei Zhao, Chao Du, Min Lin, Xueqian Wang, Tianyu Pang       
+***NeurIPS 2025*** [[arxiv](https://arxiv.org/abs/2505.20259)]   
+
+
+- **RoMa: A Robust Model Watermarking Scheme for Protecting IP in Diffusion Models**     
+Yingsha Xie, Rui Min, **Zeyu Qin**, Fei Ma, Li Shen, Fei Yu, Xiaochun Cao     
+***NeurIPS 2025***   
 
 
 - **Preserving Diversity in Supervised Fine-Tuning of Large Language Models**       
@@ -134,10 +144,6 @@ Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.
 - **Quality-Diversity Red-Teaming: Automated Generation of High-Quality and Diverse Attackers for Large Language Models**     
 Ren-Jian Wang, Ke Xue, **Zeyu Qin**, Ziniu Li, Sheng Tang, Hao-Tian Li, Shengcai Liu, Chao Qian.    
 *Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2506.07121)]
-
-- **Lifelong Safety Alignment for Language Models**     
-Haoyu Wang, **Zeyu Qin**, Yifei Zhao, Chao Du, Min Lin, Xueqian Wang, Tianyu Pang.    
-*Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2505.20259)]
 
 - **Does Representation Intervention Really Identify Desired Concepts and Elicit Alignment?**     
 Hongzheng Yang\*, Yongqiang Chen\*, **Zeyu Qin**, Tongliang Liu, Chaowei Xiao, Kun Zhang, Bo Han.    
