@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
        {
-          "src": "ust_logo1.png",
+          "src": "/LOGO_UST_blue_gold.png",
           "sizes": "192x192",
           "type": "image/png"
        },
        {
-        "src": "ust_logo1.png",
+        "src": "/LOGO_UST_blue_gold.png",
         "sizes": "512x512",
         "type": "image/png"
         }
