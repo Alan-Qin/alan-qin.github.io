@@ -99,6 +99,11 @@ Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Minhao Cheng.
 
 ## Collaboration with Excellent Researchers
 
+- **UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios**     
+Haotian Luo\*, Huaisong Zhang\*, Xuelin Zhang\*, Haoyu Wang\*, **Zeyu Qin\***, Wenjie Lu\*, Guozheng Ma, Haiying He, Yingsha Xie, Qiyang Zhou, Zixuan Hu, Hongze Mi, Yibo Wang, Naiqiang Tan, Hong Chen, Yi R. Fung, Chun Yuan, Li Shen.    
+*Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2509.21766)]     
+
+
 - **Merge-of-Thought Distillation**       
 Zhanming Shen\*, **Zeyu Qin\***, Zenan Huang, Hao Chen, Jiaqi Hu, Yihong Zhuang, Guoshan Lu, Gang Chen, Junbo Zhao.           
 *Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2509.08814)]
