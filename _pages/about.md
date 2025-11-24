@@ -14,7 +14,8 @@ redirect_from:
 
 # 🎓 About Me
 
-I am Zeyu Qin (秦泽钰), a forth-year Ph.D. student of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). Recently, I also collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/). I have also had wonderful internship experiences at MRSA GenAI group, Alibaba DAMO Academy, and Tencent AI Lab. My research interest is broadly on _Scalable Oversight, and AI Safety_.  
+I am Zeyu Qin (秦泽钰), a forth-year Ph.D. Candidate of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). I am currently exploring research directions on agents at [Kimi](https://www.moonshot.ai/). I have also had wonderful internship experiences at MRSA GenAI group, Alibaba DAMO Academy, and Tencent AI Lab. My research interests broadly span _Generalized agents, Reasoning, and Scalable Oversight_.  
+
 
 Currently, I am focusing on:     
 1) **Scaling Compute to Activate Model Capacity**: Scaling Training-time and Testing-time Compute     
@@ -37,11 +38,11 @@ _I am very fortunate to have worked with lots of distinguished researchers: Dr. 
 - *2025.05*: **Safety Reasoning paper has been accepted to ICML 2025**: we explore the **Safety Reasoning with Guidelines**. We introduce **SRG**, a scalable framework that synthesizes safety CoT supervision to encourage models to reason in alignment with diverse safety guidelines, each reflecting a different perspective on safety knowledge. Our SRG significantly improves OOD generalization of safety alignment. 
 - *2025.03*: New work: we explore the **Scaling Laws of Synthetic Data for Language Models**. We introducing **SynthLLM**, a scalable framework that transforms pre-training corpora into diverse, high-quality synthetic datasets and find synthetic data that reliably adheres to the rectified scaling law across various model sizes.
 - *2024.09*: **One <span style="color: red;">Spotlight</span> has been accepted to NeurIPS 2024**: Understanding **Superficial safety of Safety Tuning**--the Backdoor Purification Case. We demonstrated that safety fine-tuning cannot fully eliminate learned harmful features and provided a detailed analysis.
-- *2023.09*: **Two papers (one <span style="color: red;">Spotlight</span>) have been accepted to NeurIPS 2023**: 1. Feature shift tuning which achieves SOTA purification performance against backdoor attacks; 2. Spotlight! Imitation learning from imperfect demonstrations (See [Ziniu Li](http://www.liziniu.org/)).
-- *2023.05*: New work has been accepted to KDD 2023: The first study about **robustness from personalization in FL against backdoor attacks**.
-
 
 <!-- 
+I collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home), [Prof. Ruoyu Sun](https://ruoyus.github.io/), and [Dr. Yongqiang Chen](http://lfhase.win/).
+- *2023.09*: **Two papers (one <span style="color: red;">Spotlight</span>) have been accepted to NeurIPS 2023**: 1. Feature shift tuning which achieves SOTA purification performance against backdoor attacks; 2. Spotlight! Imitation learning from imperfect demonstrations (See [Ziniu Li](http://www.liziniu.org/)).
+- *2023.05*: New work has been accepted to KDD 2023: The first study about **robustness from personalization in FL against backdoor attacks**.
 - *2022.09*: The paper about **improving adversarial transferability by utilizing flatness of loss landscape (Reverse Adversarial Perturbation)** was accepted to NeurIPS 2022.
 - *2021.09*: The paper about defense against query-based attacks **(Random Noise Defense)** was accepted to NeurIPS 2021.-->
 
