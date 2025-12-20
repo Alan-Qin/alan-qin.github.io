@@ -17,10 +17,10 @@ redirect_from:
 I am Zeyu Qin (秦泽钰), a forth-year Ph.D. Candidate of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). I am currently exploring research directions on agents at [Kimi](https://www.moonshot.ai/). I have also had wonderful internship experiences at MRSA GenAI group, Alibaba DAMO Academy, and Tencent AI Lab. My research interests broadly span _Generalized agents, Reasoning, and Scalable Oversight_.  
 
 
-Currently, I am focusing on:     
-1) **Scaling Compute to Activate Model Capacity**: Scaling Training-time and Testing-time Compute     
-2) **Agent Reasoning and Generalization**: Developing Robust Reasoning      
-3) **Training Reward Models and Critique Systems**: Providing Reliable Supervision Signals                   
+Currently, I am focusing on:        
+1) **Scaling Training-time and Testing-time Compute**: Scaling Compute to Activate Capacity and Enable Fast Adaptation    
+2) **Agent Generalization**: Developing Generalizable Reasoning Agent        
+3) **Training Critique Models**: Providing Reliable Supervision Signals                   
 
 
 <!-- 
