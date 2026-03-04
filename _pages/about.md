@@ -14,12 +14,12 @@ redirect_from:
 
 # 🎓 About Me
 
-I am Zeyu Qin (秦泽钰), a forth-year Ph.D. Candidate of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Yi R. (May) Fung](https://mayrfung.github.io/) and [Prof. Minhao Cheng](https://cmhcbb.github.io/). **I am currently doing research on agents at [Kimi](https://www.moonshot.ai/) (Kimi K2.5)**. I have also had wonderful internship experiences at MRSA GenAI group, Alibaba DAMO Academy, and Tencent AI Lab. My research interests broadly span _Generalized agents, Reasoning, and Scalable Oversight_.  
+I am Zeyu Qin (秦泽钰), a forth-year Ph.D. Candidate of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisors are [Prof. Minhao Cheng](https://cmhcbb.github.io/) and [Prof. Yi R. (May) Fung](https://mayrfung.github.io/). **I am currently doing research on long-horizon agents at [Kimi](https://www.moonshot.ai/) (Kimi K2 thinking, K2.5)**. I have also had wonderful internship experiences at MRSA GenAI group, Alibaba DAMO Academy, and Tencent AI Lab. My research interests broadly span _Generalized agents, Reasoning, and Scalable Oversight_.  
 
 
 Currently, I am focusing on:        
-1) **Scaling Training-time and Testing-time Compute**: Scaling Compute to Activate Capacity and Enable Fast Adaptation    
-2) **Agent Generalization**: Developing Generalizable Reasoning Agent        
+1) **Long-Horizon Agent**: Developing Generalizable Long-Horizon Agent        
+2) **Scaling Training-time and Testing-time Compute**: Scaling Compute to Activate Capacity and Enable Fast Adaptation    
 3) **Training Critique Models**: Providing Reliable Supervision Signals                   
 
 
