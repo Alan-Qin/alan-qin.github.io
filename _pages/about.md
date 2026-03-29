@@ -53,12 +53,22 @@ I collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home
 
 **\* denoting equal contribution   $^{\dagger}$ denoting corresponding author**
 
+## Tech Report
+- **Kimi K2. 5: Visual Agentic Intelligence** [[arxiv](https://arxiv.org/abs/2602.02276)]  
+Contribute to Long-Horizon Agent   
+
+- **Kimi K2: Open Agentic Intelligence**  [[arxiv](https://arxiv.org/abs/2507.20534)]      
+Contribute to K2 Thinking   
 
 ## Scalable and Reliable Oversight
 
 - **Scaling Laws of Synthetic Data for Language Models**   
 **Zeyu Qin**, Qingxiu Dong, Xingxing Zhang $^{\dagger}$, Li Dong, Xiaolong Huang, Ziyi Yang, Mahmoud Khademi, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen, Minhao Cheng, Furu Wei $^{\dagger}$    
 ***COLM 2025*** [[arxiv](https://arxiv.org/abs/2503.19551)]
+
+- **Reinforcement Learning with Rubric Anchors**   
+Zenan Huang\*, Yihong Zhuang\*, Guoshan Lu\*, **Zeyu Qin\***, Haokai Xu\*, Tianyu Zhao, Ru Peng, Jiaqi Hu, Zhanming Shen, Xiaomeng Hu, Xijun Gu, Peiyi Tu, Jiaxin Liu, Wenyu Chen, Yuzhuo Fu, Zhiting Fan, Yanmei Gu, Yuanyuan Wang, Zhengkai Yang, Jianguo Li, Junbo Zhao$^{\dagger}$  
+*Arxiv 2025* [[arxiv](https://arxiv.org/abs/2508.12790)]  
 
 - **Safety Reasoning with Guidelines**   
 Haoyu Wang\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Xueqian Wang, Dacheng Tao, Minhao Cheng.  
@@ -103,6 +113,15 @@ Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Minhao Cheng.
 
 ## Collaboration with Excellent Researchers
 
+- **Training-Trajectory-Aware Token Selection**     
+Zhanming Shen, Jiaqi Hu, **Zeyu Qin**, Hao Chen, Wentao Ye, Zenan Huang, Yihong Zhuang, Guoshan Lu, Junlin Zhou, Junbo Zhao.
+*Arxiv, 2026* [[arxiv](https://arxiv.org/abs/2601.10348)]    
+
+- **Supervised Fine-Tuning Needs to Unlock the Potential of Token Priority**     
+Zhanming Shen, **Zeyu Qin**, Jiaqi Hu, Wentao Ye, Hao Chen, Xiaomeng Hu, Haokai Xu, Gang Chen, Yi R. Fung, Haobo Wang.
+*Arxiv, 2026* [[arxiv](https://arxiv.org/abs/2602.01227)]    
+
+
 - **UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios**     
 Haotian Luo\*, Huaisong Zhang\*, Xuelin Zhang\*, Haoyu Wang\*, **Zeyu Qin\***, Wenjie Lu\*, Guozheng Ma, Haiying He, Yingsha Xie, Qiyang Zhou, Zixuan Hu, Hongze Mi, Yibo Wang, Naiqiang Tan, Hong Chen, Yi R. Fung, Chun Yuan, Li Shen.    
 *Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2509.21766)]     
@@ -111,10 +130,6 @@ Haotian Luo\*, Huaisong Zhang\*, Xuelin Zhang\*, Haoyu Wang\*, **Zeyu Qin\***, W
 - **Merge-of-Thought Distillation**       
 Zhanming Shen\*, **Zeyu Qin\***, Zenan Huang, Hao Chen, Jiaqi Hu, Yihong Zhuang, Guoshan Lu, Gang Chen, Junbo Zhao.           
 *Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2509.08814)]
-
-- **Reinforcement Learning with Rubric Anchors**   
-Zenan Huang\*, Yihong Zhuang\*, Guoshan Lu\*, **Zeyu Qin\***, Haokai Xu\*, Tianyu Zhao, Ru Peng, Jiaqi Hu, Zhanming Shen, Xiaomeng Hu, Xijun Gu, Peiyi Tu, Jiaxin Liu, Wenyu Chen, Yuzhuo Fu, Zhiting Fan, Yanmei Gu, Yuanyuan Wang, Zhengkai Yang, Jianguo Li, Junbo Zhao$^{\dagger}$  
-*Arxiv 2025* [[arxiv](https://arxiv.org/abs/2508.12790)]  
 
 
 - **Lifelong Safety Alignment for Language Models**       
@@ -137,31 +152,6 @@ Ziniu Li\*, Tian Xu\*, **Zeyu Qin**, Yang Yu, Zhiquan Luo.
 ***NeurIPS 2023*** [[OpenReview](https://openreview.net/forum?id=vO04AzsB49)]  
 (This is excellent work from Ziniu and Tian. I only conducted part of the experiments. I almost have no idea about Imitation Learning 😂.)
 
-
-- **Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**  
-Liang Chen, Yang Deng, Yatao Bian, **Zeyu Qin**, Bingzhe Wu, Tat-Seng Chua, Kam-Fai Wong.   
-***EMNLP 2023*** [[arxiv](https://arxiv.org/abs/2310.07289)] [[code](https://github.com/chanliang/conner)]
-
-- **Adaptive Smoothness-weighted Adversarial Training for Multiple Perturbations with Its Stability Analysis.**  
-Jiancong Xiao, **Zeyu Qin**, Yanbo Fan, Baoyuan Wu, Jue Wang, Zhi-Quan Luo.    
-*ICML 2023 Workshop AdvML-Frontiers, 2023* [[arxiv](https://arxiv.org/abs/2210.00557)]
-
-
-# 📝 Preprints
-**\* denoting equal contribution  ^ denoting corresponding author**  
-
-- **Quality-Diversity Red-Teaming: Automated Generation of High-Quality and Diverse Attackers for Large Language Models**     
-Ren-Jian Wang, Ke Xue, **Zeyu Qin**, Ziniu Li, Sheng Tang, Hao-Tian Li, Shengcai Liu, Chao Qian.    
-*Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2506.07121)]
-
-- **Does Representation Intervention Really Identify Desired Concepts and Elicit Alignment?**     
-Hongzheng Yang\*, Yongqiang Chen\*, **Zeyu Qin**, Tongliang Liu, Chaowei Xiao, Kun Zhang, Bo Han.    
-*Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2505.18672)]
-
-
-- **Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping**     
-Haoyu Wang, Guozheng Ma, Ziqiao Meng, **Zeyu Qin**, Li Shen, Zhong Zhang, Bingzhe Wu, Liu Liu, Yatao Bian, Tingyang Xu, Xueqian Wang, Peilin Zhao.    
-*Arxiv, 2024* [[arxiv](https://arxiv.org/abs/2402.07610)]
 
 
 # 🎖 Honors and Awards
