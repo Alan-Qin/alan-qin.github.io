@@ -21,8 +21,8 @@ I am Zeyu Qin (秦泽钰), a forth-year Ph.D. Candidate of [Computer Science & E
 
 Currently, I am focusing on:        
 1) **Long-Horizon Agent**: Developing Generalizable Long-Horizon Agent        
-2) **Scaling Training-time and Testing-time Compute**: Scaling Compute to Activate Capacity and Enable Fast Adaptation    
-3) **Training Critique Models**: Providing Reliable Supervision Signals                   
+2) **Scaling Training-time and Testing-time Compute**: Scaling Synthetic Data to Activate Capacity and Enable Fast Adaptation    
+3) **Reliable Supervision for Alignment**: Providing Reliable Supervision Signals for Safety                  
 
 
 <!-- 
