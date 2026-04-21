@@ -16,7 +16,7 @@ redirect_from:
 
 I am Zeyu Qin (秦泽钰), a forth-year Ph.D. Candidate of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisor is [Prof. Minhao Cheng](https://cmhcbb.github.io/).
 
-**I am currently doing research on long-horizon agents at [Kimi](https://www.moonshot.ai/) (Kimi K2 thinking, K2.5)**. I have also had wonderful internship experiences at MSRA GenAI group, Alibaba DAMO Academy (Now Tongyi Lab), and Tencent AI Lab. My research interests broadly span _Long-Horizon Agents, Reasoning, and Scalable Oversight_.  
+**I am currently doing research on long-horizon agents at [Kimi](https://www.moonshot.ai/) (Kimi K2.6, K2.5, K2 thinking)**. I have also had wonderful internship experiences at MSRA GenAI group, Alibaba DAMO Academy (Now Tongyi Lab), and Tencent AI Lab. My research interests broadly span _Long-Horizon Agents, Reasoning, and Scalable Oversight_.  
 
 
 Currently, I am focusing on:        
@@ -53,12 +53,17 @@ I collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home
 
 **\* denoting equal contribution   $^{\dagger}$ denoting corresponding author**
 
-## Tech Report
-- **Kimi K2. 5: Visual Agentic Intelligence** [[arxiv](https://arxiv.org/abs/2602.02276)]  
+## Tech Report and Blog
+
+- **Kimi K2.6: Advancing Open-Source Coding** [[blog](https://www.kimi.com/blog/kimi-k2-6)]  
+Contribute to Synthetic Data for Long-Horizon Agent   
+
+- **Kimi K2.5: Visual Agentic Intelligence** [[arxiv](https://arxiv.org/abs/2602.02276)]  
 Contribute to Long-Horizon Agent   
 
 - **Kimi K2: Open Agentic Intelligence**  [[arxiv](https://arxiv.org/abs/2507.20534)]      
 Contribute to K2 Thinking   
+
 
 ## Scalable and Reliable Oversight
 
