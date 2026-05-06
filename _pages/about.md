@@ -16,7 +16,7 @@ redirect_from:
 
 I am Zeyu Qin (秦泽钰), a forth-year Ph.D. Candidate of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisor is [Prof. Minhao Cheng](https://cmhcbb.github.io/).
 
-**I am currently doing research on long-horizon agents at [Kimi](https://www.moonshot.ai/) (Kimi K2.6, K2.5, K2 thinking)**. I have also had wonderful internship experiences at MSRA GenAI group, Inclusion AI (Ant Group) Alibaba DAMO Academy (Now Tongyi Lab), and Tencent AI Lab (Now Hunyuan Frontier). My research interests broadly span _Long-Horizon Agents, Reasoning, and Scalable Oversight_.  
+**I am currently doing research on long-horizon agents at [Kimi](https://www.moonshot.ai/) (Kimi K2.6, K2.5, K2 thinking)**. I have also had wonderful internship experiences at MSRA GenAI group, Inclusion AI (Ant Group), Alibaba DAMO Academy (Now Tongyi Lab), and Tencent AI Lab (Now Hunyuan Frontier). My research interests broadly span _Long-Horizon Agents, Reasoning, and Scalable Oversight_.  
 
 
 Currently, I am focusing on:        
@@ -122,11 +122,11 @@ Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Minhao Cheng.
 
 - **UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios**     
 Haotian Luo\*, Huaisong Zhang\*, Xuelin Zhang\*, Haoyu Wang\*, **Zeyu Qin\***, Wenjie Lu\*, Guozheng Ma, Haiying He, Yingsha Xie, Qiyang Zhou, Zixuan Hu, Hongze Mi, Yibo Wang, Naiqiang Tan, Hong Chen, Yi R. Fung, Chun Yuan, Li Shen.    
-*ICML, 2026* [[arxiv](https://arxiv.org/abs/2509.21766)]     
+***ICML, 2026*** [[arxiv](https://arxiv.org/abs/2509.21766)]     
 
 - **Training-Trajectory-Aware Token Selection**     
 Zhanming Shen, Jiaqi Hu, **Zeyu Qin**, Hao Chen, Wentao Ye, Zenan Huang, Yihong Zhuang, Guoshan Lu, Junlin Zhou, Junbo Zhao.
-*ICML, 2026* [[arxiv](https://arxiv.org/abs/2601.10348)]    
+***ICML, 2026*** [[arxiv](https://arxiv.org/abs/2601.10348)]    
 
 - **Supervised Fine-Tuning Needs to Unlock the Potential of Token Priority**     
 Zhanming Shen, **Zeyu Qin**, Jiaqi Hu, Wentao Ye, Hao Chen, Xiaomeng Hu, Haokai Xu, Gang Chen, Yi R. Fung, Haobo Wang.
