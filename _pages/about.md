@@ -36,9 +36,10 @@ _I am very fortunate to have worked with lots of distinguished researchers: Dr. 
 
 
 # 📜 News
-- *2026.04*：**Kimi K2.6 blog** has been released [[blog](https://www.kimi.com/blog/kimi-k2-6)]. 
-- *2026.02*：**Kimi K2.5 tech report** has been released [[arxiv](https://arxiv.org/abs/2602.02276)].     
-- *2025.07*：**Scaling Laws of Synthetic Data for Language Models** has been accepted to **COLM 2025**.
+- *2026.05*: **5 paper accepted by ICML 2026** about long-horizon agent, SFT training dynamics, and synthetic data. 
+- *2026.04*: **Kimi K2.6 blog** has been released [[blog](https://www.kimi.com/blog/kimi-k2-6)]. 
+- *2026.02*: **Kimi K2.5 tech report** has been released [[arxiv](https://arxiv.org/abs/2602.02276)].     
+- *2025.07*: **Scaling Laws of Synthetic Data for Language Models** has been accepted to **COLM 2025**.
 - *2025.05*: **Safety Reasoning paper has been accepted to ICML 2025**: we explore the **Safety Reasoning with Guidelines**. We introduce **SRG**, a scalable framework that synthesizes safety CoT supervision to encourage models to reason in alignment with diverse safety guidelines, each reflecting a different perspective on safety knowledge. Our SRG significantly improves OOD generalization of safety alignment. 
 - *2025.03*: New work: we explore the **Scaling Laws of Synthetic Data for Language Models**. We introducing **SynthLLM**, a scalable framework that transforms pre-training corpora into diverse, high-quality synthetic datasets and find synthetic data that reliably adheres to the rectified scaling law across various model sizes.
 - *2024.09*: **One <span style="color: red;">Spotlight</span> has been accepted to NeurIPS 2024**: Understanding **Superficial safety of Safety Tuning**--the Backdoor Purification Case. We demonstrated that safety fine-tuning cannot fully eliminate learned harmful features and provided a detailed analysis.
@@ -119,45 +120,38 @@ Rui Min\*, **Zeyu Qin\* $^{\dagger}$**, Li Shen, Minhao Cheng.
 
 ## Collaboration with Excellent Researchers
 
+- **UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios**     
+Haotian Luo\*, Huaisong Zhang\*, Xuelin Zhang\*, Haoyu Wang\*, **Zeyu Qin\***, Wenjie Lu\*, Guozheng Ma, Haiying He, Yingsha Xie, Qiyang Zhou, Zixuan Hu, Hongze Mi, Yibo Wang, Naiqiang Tan, Hong Chen, Yi R. Fung, Chun Yuan, Li Shen.    
+*ICML, 2026* [[arxiv](https://arxiv.org/abs/2509.21766)]     
+
 - **Training-Trajectory-Aware Token Selection**     
 Zhanming Shen, Jiaqi Hu, **Zeyu Qin**, Hao Chen, Wentao Ye, Zenan Huang, Yihong Zhuang, Guoshan Lu, Junlin Zhou, Junbo Zhao.
-*Arxiv, 2026* [[arxiv](https://arxiv.org/abs/2601.10348)]    
+*ICML, 2026* [[arxiv](https://arxiv.org/abs/2601.10348)]    
 
 - **Supervised Fine-Tuning Needs to Unlock the Potential of Token Priority**     
 Zhanming Shen, **Zeyu Qin**, Jiaqi Hu, Wentao Ye, Hao Chen, Xiaomeng Hu, Haokai Xu, Gang Chen, Yi R. Fung, Haobo Wang.
 *Arxiv, 2026* [[arxiv](https://arxiv.org/abs/2602.01227)]    
 
-
-- **UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios**     
-Haotian Luo\*, Huaisong Zhang\*, Xuelin Zhang\*, Haoyu Wang\*, **Zeyu Qin\***, Wenjie Lu\*, Guozheng Ma, Haiying He, Yingsha Xie, Qiyang Zhou, Zixuan Hu, Hongze Mi, Yibo Wang, Naiqiang Tan, Hong Chen, Yi R. Fung, Chun Yuan, Li Shen.    
-*Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2509.21766)]     
-
-
 - **Merge-of-Thought Distillation**       
 Zhanming Shen\*, **Zeyu Qin\***, Zenan Huang, Hao Chen, Jiaqi Hu, Yihong Zhuang, Guoshan Lu, Gang Chen, Junbo Zhao.           
 *Arxiv, 2025* [[arxiv](https://arxiv.org/abs/2509.08814)]
-
 
 - **Lifelong Safety Alignment for Language Models**       
 Haoyu Wang, **Zeyu Qin**, Yifei Zhao, Chao Du, Min Lin, Xueqian Wang, Tianyu Pang       
 ***NeurIPS 2025*** [[arxiv](https://arxiv.org/abs/2505.20259)]   
 
-
 - **RoMa: A Robust Model Watermarking Scheme for Protecting IP in Diffusion Models**     
 Yingsha Xie, Rui Min, **Zeyu Qin**, Fei Ma, Li Shen, Fei Yu, Xiaochun Cao     
 ***NeurIPS 2025***   
-
 
 - **Preserving Diversity in Supervised Fine-Tuning of Large Language Models**       
 Ziniu Li, Congliang Chen, Tian Xu, **Zeyu Qin**, Jiancong Xiao, Ruoyu Sun, Zhi-Quan Luo.       
 ***ICLR 2025*** [[arxiv](https://arxiv.org/abs/2408.16673)]
 
-
 - **Imitation Learning from Imperfection: Theoretical Justifications and Algorithms (<span style="color: red;">Spotlight!</span>)**    
 Ziniu Li\*, Tian Xu\*, **Zeyu Qin**, Yang Yu, Zhiquan Luo.    
 ***NeurIPS 2023*** [[OpenReview](https://openreview.net/forum?id=vO04AzsB49)]  
 (This is excellent work from Ziniu and Tian. I only conducted part of the experiments. I almost have no idea about Imitation Learning 😂.)
-
 
 
 # 🎖 Honors and Awards
