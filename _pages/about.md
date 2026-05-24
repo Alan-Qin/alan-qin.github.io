@@ -125,11 +125,11 @@ Haotian Luo\*, Huaisong Zhang\*, Xuelin Zhang\*, Haoyu Wang\*, **Zeyu Qin\***, W
 ***ICML, 2026*** [[arxiv](https://arxiv.org/abs/2509.21766)]     
 
 - **Training-Trajectory-Aware Token Selection**     
-Zhanming Shen, Jiaqi Hu, **Zeyu Qin**, Hao Chen, Wentao Ye, Zenan Huang, Yihong Zhuang, Guoshan Lu, Junlin Zhou, Junbo Zhao.
+Zhanming Shen, Jiaqi Hu, **Zeyu Qin**, Hao Chen, Wentao Ye, Zenan Huang, Yihong Zhuang, Guoshan Lu, Junlin Zhou, Junbo Zhao.             
 ***ICML, 2026*** [[arxiv](https://arxiv.org/abs/2601.10348)]    
 
 - **Supervised Fine-Tuning Needs to Unlock the Potential of Token Priority**     
-Zhanming Shen, **Zeyu Qin**, Jiaqi Hu, Wentao Ye, Hao Chen, Xiaomeng Hu, Haokai Xu, Gang Chen, Yi R. Fung, Haobo Wang.
+Zhanming Shen, **Zeyu Qin**, Jiaqi Hu, Wentao Ye, Hao Chen, Xiaomeng Hu, Haokai Xu, Gang Chen, Yi R. Fung, Haobo Wang.          
 *Arxiv, 2026* [[arxiv](https://arxiv.org/abs/2602.01227)]    
 
 - **Merge-of-Thought Distillation**       
