@@ -16,7 +16,7 @@ redirect_from:
 
 I am Zeyu Qin (秦泽钰), a forth-year Ph.D. Candidate of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisor is [Prof. Minhao Cheng](https://cmhcbb.github.io/).
 
-**I am currently doing research on long-horizon agents at [Kimi](https://www.moonshot.ai/) (Kimi K2.6, K2.5, K2 thinking)**. I have also had wonderful internship experiences at MSRA GenAI group, Inclusion AI (Ant Group), Alibaba DAMO Academy (Now Tongyi Lab), and Tencent AI Lab (Now Hunyuan Frontier). My research interests broadly span _Long-Horizon Agents, Reasoning, and Scalable Oversight_.  
+**I am currently doing research on long-horizon agents at [Kimi](https://www.moonshot.ai/) (Kimi K2.7, K2.6, K2.5, K2 thinking)**. I have also had wonderful internship experiences at MSRA GenAI group, Inclusion AI (Ant Group), Alibaba DAMO Academy (Now Tongyi Lab), and Tencent AI Lab (Now Hunyuan Frontier). My research interests broadly span _Long-Horizon Agents, Reasoning, and Scalable Oversight_.  
 
 
 Currently, I am focusing on:        
