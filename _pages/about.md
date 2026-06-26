@@ -170,7 +170,7 @@ Ziniu Li\*, Tian Xu\*, **Zeyu Qin**, Yang Yu, Zhiquan Luo.
 - *2022.10*, Adversarial Transferability in AI Times Forum.
 
 # 💻 Internships
-- September 2025 -- Now: RL Team of Kimi, Beijing, China
+- September 2025 -- March 2026: RL Team of Kimi, Beijing, China
 - November 2024 -- July 2025: Research Intern, MSRA GenAI, Beijing, China
 - June 2022 -- May 2023: Research Intern, Alibaba Damo Academy, Hangzhou, China
 - July 2021 -- May 2022: Research Intern, Tencent AI Lab, Shenzhen, China
