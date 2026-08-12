@@ -16,7 +16,7 @@ redirect_from:
 
 I am Zeyu Qin (秦泽钰), a forth-year Ph.D. Candidate of [Computer Science & Engineering](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST). My advisor is [Prof. Minhao Cheng](https://cmhcbb.github.io/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/).
 
-**I am currently doing research on long-horizon agents at [Kimi](https://www.moonshot.ai/) (Kimi K2.7, K2.6, K2.5, K2 thinking)**. I have also had wonderful internship experiences at MSRA GenAI group, Inclusion AI (Ant Group), Alibaba DAMO Academy (Now Tongyi Lab), and Tencent AI Lab (Now Hunyuan Frontier). My research interests broadly span _Long-Horizon Agents, Reasoning, and Scalable Oversight_.  
+**I am currently doing research on long-horizon agents at [Kimi](https://www.moonshot.ai/) (Kimi K3, K2.7, K2.6, K2.5, K2 thinking)**. I have also had wonderful internship experiences at MSRA GenAI group, Inclusion AI (Ant Group), Alibaba DAMO Academy (Now Tongyi Lab), and Tencent AI Lab (Now Hunyuan Frontier). My research interests broadly span _Long-Horizon Agents, Reasoning, and Scalable Oversight_.  
 
 
 Currently, I am focusing on:        
@@ -36,6 +36,7 @@ _I am very fortunate to have worked with lots of distinguished researchers: Dr. 
 
 
 # 📜 News
+- *2026.07*: **Kimi K3 tech report** has been released [[arxiv](https://arxiv.org/abs/2607.24653)]. 
 - *2026.05*: **5 paper accepted by ICML 2026** about long-horizon agent, SFT training dynamics, and synthetic data. 
 - *2026.04*: **Kimi K2.6 blog** has been released [[blog](https://www.kimi.com/blog/kimi-k2-6)]. 
 - *2026.02*: **Kimi K2.5 tech report** has been released [[arxiv](https://arxiv.org/abs/2602.02276)].     
@@ -56,6 +57,9 @@ I collaborate with [Prof. Li Shen](https://sites.google.com/site/mathshenli/home
 **\* denoting equal contribution   $^{\dagger}$ denoting corresponding author**
 
 ## Tech Report and Blog
+
+- **Kimi K3: Open Frontier Intelligence** [[arxiv](https://arxiv.org/abs/2607.24653)]  
+Contribute to Synthetic Data and Model Training for Agents
 
 - **Kimi K2.6: Advancing Open-Source Coding** [[blog](https://www.kimi.com/blog/kimi-k2-6)]  
 Contribute to Synthetic Data for Long-Horizon Agent   
